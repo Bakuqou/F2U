@@ -1,0 +1,76 @@
+<!----------------------
+
+    prov hero license
+         card ver.
+    accent: #fd4954
+
+----------------------->
+
+<div class="card mx-auto my-3 p-4" style="max-width:500px;border-radius: 20px;background:url(https://i.imgur.com/0uTY30N.png) #fff;color:#444;">
+    <div class="row no-gutters">
+
+        <!--- prov. hero license title --->
+        <h1 class="col-lg-8 display-4 text-uppercase pull-left" style="font-size:18px;letter-spacing:1px;">
+
+        		Provisional Hero License</h1>
+
+        <!--- id code. put whatever you want --->
+        <div class="col-4 text-right text-uppercase" style="font-size:11px;line-height:11px;margin-top:-2px;">
+
+            		NNZ 6541254
+            <br>
+            <!----- credit / pls no remove ----->
+            <a href="https://toyhou.se/6935700" style="color:#000;">CODE</a></div>
+
+    </div>
+
+    <div class="card rounded-0 mx-1 mb-1" style="background:#fd4954;opacity:0.8;height:15px;">
+    </div>
+    <div class="row no-gutters">
+        <!---- card info ---->
+        <div class="col-md-8 p-1">
+
+            <!----- name ----->
+            <div class="d-flex mb-2" style="border-bottom:2px solid #fd4954;">
+                <span class="w-50 p-0 text-uppercase text-truncate font-weight-bold" style="letter-spacing:1px;">NAME</span>
+                <span class="w-50 p-0 text-right">Todoroki Shoto</span>
+            </div>
+
+            <!----- affiliation ----->
+            <div class="d-flex mb-2" style="border-bottom:2px solid #fd4954;">
+                <span class="w-50 p-0 text-uppercase text-truncate font-weight-bold" style="letter-spacing:1px;">AFFILIATION</span>
+                <span class="w-50 p-0 text-right">UA High School</span>
+            </div>
+
+            <!----- department / class ----->
+            <div class="d-flex mb-2" style="border-bottom:2px solid #fd4954;">
+                <span class="w-50 p-0 text-uppercase text-truncate font-weight-bold" style="letter-spacing:1px;">QUIRK</span>
+                <span class="w-50 p-0 text-right">Half Hot Half Cold</span>
+            </div>
+
+            <!----- issued ----->
+            <div class="d-flex mb-3" style="border-bottom:2px solid #fd4954;">
+                <span class="w-50 p-0 text-uppercase text-truncate font-weight-bold" style="letter-spacing:1px;">ISSUED</span>
+                <span class="w-50 p-0 text-right">xx.xx.xxxx</span>
+            </div>
+
+            <!----- hero name title ---->
+            <div class="row no-gutters d-flex mb-1">
+                <div class="card col w-100 rounded-0 text-white text-center my-auto p-0 font-weight-bold display-4" style="background:#fd4954;opacity:0.8;height:8px;"></div>
+                <span class="col-auto text-left mx-1 px-1 text-uppercase font-weight-bold" style="letter-spacing:1px;">Hero Name</span>
+                <div class="card col w-100 rounded-0 text-white text-center my-auto p-0 font-weight-bold display-4" style="background:#fd4954;opacity:0.8;height:8px"></div>
+            </div>
+
+            <!----- HERO NAME ----->
+            <div class="card rounded-0 text-white text-center p-1 font-weight-bold display-4" style="background:#fd4954;opacity:0.8;"> SHOTO</div>
+
+        </div>
+        <div class="col-4 p-1">
+			
+			<!----- IMAGE ----->
+            <div class="card rounded-0 w-100 h-100" style="background:url('CHARACTER_PIC_HERE') #fd4954 center;background-size:cover;border:2px solid #fd4954;"></div>
+
+        </div>
+
+    </div>
+</div>
