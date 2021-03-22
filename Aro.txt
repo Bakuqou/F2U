@@ -71,7 +71,7 @@
 <!------------------------------------------------------------------------------------------------------------------>
    </div>
    <!----- CODE CREDIT ------->
-   <a href="https://toyhou.se/Bakuqou/characters/folder:1013392"><i class="fal fa-code text-muted pull-right m-2"></i></a>
+   <a href="https://toyhou.se/7123287"><i class="fal fa-code text-muted pull-right m-2"></i></a>
    <!----- IMAGE CREDIT ------>
    <a href="ARTIST_CREDIT"><i class="fas fa-image text-muted pull-right my-2"></i></a>
 </div>
