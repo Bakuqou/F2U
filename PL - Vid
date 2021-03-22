@@ -1,0 +1,176 @@
+<!----------------------------
+
+        plastic love ♥
+         by bakuqou
+    
+ try and keep ya info simple
+ its a tiny template for people
+  who hate intros and bios ♥
+
+for help with changing the music player
+https://toyhou.se/8682081.all-music-players-wip/8682087.tutorial
+
+----------------------------->
+<div class="card mx-auto border-0 my-3 p-4" style="max-width:500px;">
+<div class="row no-gutters">    
+
+<div class="col-lg-12 p-1 mx-auto">
+<div class="card rounded-0 border-0" style="overflow:auto;">
+        <h2 class="card rounded-0 text-uppercase pb-2 text-muted" style="letter-spacing:2px;font-size:18px;border-width:0 0 1px 0;">Plastic Love</h2>
+        <p>A little something for people as lazy or awkward as I am when it comes to User Profile bios. Like... what do I even say? Also, Mariya Takeuchi is honestly amazing and I wanted to add her somewhere.</p> <br>
+</div>
+
+<ul class="nav nav-tabs card-header-tabs row my-2">
+  <li class="col-md-6 mb-1"><a class="btn rounded-0 btn-block btn-outline-secondary active" data-toggle="tab" href="#img">Image Ver.</a></li>
+  <li class="col-md-6 mb-1"><a class="btn rounded-0 btn-block btn-outline-secondary" data-toggle="tab" href="#vid">Video Ver.</a></li>
+</ul>
+
+
+</div>
+
+</div></div>
+
+
+<div class="tab-content">
+  <div class="tab-pane fade active show" id="img">
+    <div class="card border-0 p-3">
+      <div class="py-0 pl-lg-5 ml-lg-5">
+<div class="container p-0" style="max-width:500px;margin: auto;">
+   <div class="row no-gutters ml-lg-2">
+      
+      
+      <!----- IMG / YT ----->
+      <div class="col-lg-3 p-1 text-center">
+         <!---------- IMG --------------->
+         <img class="rounded-circle img-thumbnail my-2 mx-auto" style="filter: grayscale(1);height:120px;width:120px;" src="https://uploads.scratch.mit.edu/users/avatars/43878953.png">
+      </div>
+      
+      
+      <div class="col-lg-6 p-1">
+         <div class="card h-100 rounded-0 p-2 pull-left w-100" style="border-width:0 0 0 1px;font-size:11px;">
+            
+            
+            <!----- title ----->
+            <div class="row no-gutters">
+               <h1 class="mb-0 text-danger display-4 text-lowercase font-weight-bold" style="font-size:12pt;letter-spacing:2px;">plastic love</h1>
+            </div>
+            
+            
+            <!----- end title ----->
+            <div class="card rounded-0 border-bottom-0 my-2"></div>
+            
+            
+            <!----- basics ----->
+            <i class="text-right mb-2 text-muted">name . age . pronouns</i>
+            <p class="mb-2">The quick brown fox jumped over the lazy dog.</p>
+            
+            
+            <!--- links --->
+            <ul class="list mb-0 pull-right">
+               <li class="d-flex justify-content-between">
+                  <!--- DEV. ART --->
+                  <span><a href="#"><i class="fab fa-deviantart text-danger"></i></a></span>
+                  <!--- TWITTER --->
+                  <span><a href="#"><i class="fab fa-twitter text-danger"></i></a></span>
+                  <!--- TUMBLR --->
+                  <span><a href="#"><i class="fab fa-tumblr text-danger"></i></a></span>
+                  <!--- DISCORD --->
+                  <span><a href="" data-toggle="tooltip" title="Username#0000"><i class="fab fa-discord text-danger"></i></a></span>
+                  <!--- FUR AFF. --->
+                  <span><a href="#"><i class="fas fa-paw text-danger"></i></a></span>
+                  <!--- CRED --->
+                  <span><a href="/bakuqou"><i class="fas fa-code text-danger"></i></a></span>
+               </li>
+            </ul>
+            <!--- end links --->
+         </div>
+      </div>
+   </div>
+   <a class="btn rounded-0 ml-lg-2 btn-block btn-outline-secondary my-3 text-uppercase" href="https://pastebin.com/eR7FYrU2" style="max-width:380px;letter-spacing:3px;">Code</a>
+</div>
+</div>
+    </div>
+  
+    
+    
+</div>
+
+
+ <div class="tab-pane fade" id="vid">
+    <div class="card border-0 p-3">
+      <div class="py-0 pl-lg-5 ml-lg-5">
+<div class="container p-0" style="max-width:500px;margin: auto;">
+    
+   <div class="row no-gutters ml-lg-2">
+      
+      
+       <!----- IMG / YT ----->
+      <div class="col-lg-3 p-1">
+         <!----- YOUTUBE LINK // CHANGE THE ID_HERE, LEAVE ?controls=0------>
+      <div
+        class="card border-0 mt-3 rounded-circle"
+        style="overflow: hidden; width: 110px; height: 110px"
+      >
+          
+         
+        <div style="position: relative; left: -45px; top: -15px">
+          <!-------- CHANGE ID_HERE ---------->
+          <iframe class="card rounded-circle my-2 mx-auto"
+            width="200"
+            height="130"
+            src="
+          
+          
+          https://www.youtube-nocookie.com/embed/ID_HERE?controls=0
+          
+          
+          "
+            frameborder="0"
+          ></iframe>
+        </div>
+      </div>
+      </div>
+      
+      
+      <div class="col-lg-6 p-1">
+         <div class="card h-100 rounded-0 p-2 pull-left w-100" style="border-width:0 0 0 1px;font-size:11px;">
+            
+            
+            <!----- title ----->
+            <div class="row no-gutters">
+               <h1 class="mb-0 text-danger display-4 text-lowercase font-weight-bold" style="font-size:12pt;letter-spacing:2px;">plastic love</h1>
+            </div>
+            
+            
+            <!----- end title ----->
+            <div class="card rounded-0 border-bottom-0 my-2"></div>
+            
+            
+            <!----- basics ----->
+            <i class="text-right mb-2 text-muted">name . age . pronouns</i>
+            <p class="mb-2">Mariya Takeuchi is a Japanese singer and songwriter who sold over 16 million records.</p>
+            
+            
+            <!--- links --->
+            <ul class="list mb-0 pull-right">
+               <li class="d-flex justify-content-between">
+                  <!--- DEV. ART --->
+                  <span><a href="#"><i class="fab fa-deviantart text-danger"></i></a></span>
+                  <!--- TWITTER --->
+                  <span><a href="#"><i class="fab fa-twitter text-danger"></i></a></span>
+                  <!--- TUMBLR --->
+                  <span><a href="#"><i class="fab fa-tumblr text-danger"></i></a></span>
+                  <!--- DISCORD --->
+                  <span><a href="" data-toggle="tooltip" title="Username#0000"><i class="fab fa-discord text-danger"></i></a></span>
+                  <!--- FUR AFF. --->
+                  <span><a href="#"><i class="fas fa-paw text-danger"></i></a></span>
+                  <!--- CRED --->
+                  <span><a href="https://toyhou.se/7036097"><i class="fas fa-code text-danger"></i></a></span>
+               </li>
+            </ul>
+            <!--- end links --->
+         </div>
+      </div>
+         <a class="btn rounded-0 btn-block ml-lg-2 btn-outline-secondary my-3 text-uppercase" href="https://pastebin.com/GT2UeQ4T" style="max-width:380px;letter-spacing:3px;">Code</a>
+   </div>
+</div>
