@@ -1,0 +1,445 @@
+<!------------------------------
+
+     shortass by bakuqou
+
+      accent: #e44c4c
+
+           basics
+  - use off wysiwyg
+  - pull it apart idc
+  - dont profit of it, its free
+  - drink water
+
+- stats code by ovob - box on rox
+  im lazy and it was perf anyway
+
+-------------------------------->
+<div class="card mx-auto my-auto border-0" style="font-size:12px;max-width:700px;">
+
+    <div class="row no-gutters py-2">
+
+        <!----- right content ------>
+        <div class="col-sm-4 p-1 text-center" style="margin-top:-12px;">
+            <i class="fad fa-crown fa-5x pull-left p-0" style="transform: rotate(-25deg);margin-left:-20px;z-index:9;color: #e44c4c;"></i>
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/5420349?1574484362" class="img-thumbnail rounded-0 w-100" style="margin-top:-25px;">
+        </div>
+
+        <!----- left content ------>
+        <div class="col-sm-6 p-1">
+            <div class="card rounded-0 bg-faded mt-lg-4 p-1" style="height:224px;overflow:auto;">
+                <div class="tab-content">
+
+                    <!----- tab 1 ----->
+                    <div class="tab-pane fade active show" id="tab1">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Kai</h1>
+
+<!-------------------------------------------------
+
+                S T A T S
+                
+            credit to ovob
+            box on the rox
+
+-------------------------------------------------->
+                        <div class="row no-gutters">
+                            <div class="col-sm">
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Name</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Species</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Age</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Gender</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Pronouns</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex mb-0">
+                                    <span class="w-50 p-1 text-uppercase text-truncate text-muted" style="letter-spacing:1px;">Sexuality</span>
+                                    <span class="w-50 p-1 text-right">info</span>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:1px;">Theme</span>
+                                    <a href="SONG_LINK" class="w-50 p-1 text-right" style="color:#e44c4c">info</a>
+                                </div>
+
+                            </div>
+                            <div class="col-auto p-2 hidden-xs-down">
+                                <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+                            </div>
+                            
+                            <!------------------------
+                            
+                                    RIGHT SIDE  
+                                  change the 50%
+                            
+                            -------------------------->
+                            <div class="col-sm">
+
+                                <hr class="hidden-sm-up" style="margin:14px 4px;">
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Intelligence</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px;">
+                                        <div class="progress-bar" style="
+
+                                          width: 50%;
+                                    
+                                          background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Creativity</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+                                    
+                                          width: 50%;
+                                    
+                                          background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Creativity</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+                                    
+                                          width: 50%;
+                                    
+                                          background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Confidence</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+                                        
+                                         width: 50%;
+                                            
+                                                  background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Humor</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+
+                                         width: 50%;
+                                    
+                                         background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Empathy</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+
+                                         width: 50%;
+                                    
+                                        background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex mb-0">
+                                    <span class="w-50 p-1 text-truncate text-uppercase text-muted">Charisma</span>
+                                    <div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+                                        <div class="progress-bar" style="
+
+                                         width: 50%;
+                                    
+                                         background:#e44c4c;"></div>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+
+                    </div>
+
+<!-------------------------------------------------
+
+                S T O R Y
+
+-------------------------------------------------->
+                    <div class="tab-pane fade text-justify" id="tab2">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Story</h1>
+
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper rutrum consequat. Proin at nisl pretium, viverra sapien vel, iaculis tortor. Nulla fringilla lacus nec arcu sagittis facilisis. Nulla luctus vestibulum aliquam. Proin ac gravida ante. Aenean sagittis arcu at nisi posuere, in cursus orci interdum. Vivamus malesuada libero eros, eu sodales lacus consectetur in. Nam accumsan pulvinar elit, non interdum quam rutrum non. Suspendisse aliquet, mi non pellentesque rhoncus, sem erat consectetur erat, ultricies scelerisque magna leo at eros. Suspendisse ac lacus diam. Quisque feugiat malesuada risus a accumsan. Fusce neque orci, efficitur at sagittis quis, cursus et nunc. Aliquam interdum aliquam auctor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+
+                        <!--------- divider ------------>
+                        <h3 class="text-lowercase text-right py-2 display-4" style="font-size:15px;letter-spacing:2px; border-bottom:1px solid #aaa;">Present</h3>
+
+                        <p>Nunc accumsan, dui a tempus efficitur, nisl quam faucibus nulla, ac ultricies ipsum eros ac lorem. Maecenas mollis et turpis ut interdum. Vestibulum et diam at felis maximus hendrerit et tincidunt elit. Praesent eu lorem at nulla pharetra sagittis sed eu turpis. Integer tincidunt mi ac nulla sagittis ullamcorper. Nam tincidunt libero orci, vel dictum nunc sodales sit amet. Proin nibh orci, suscipit vitae arcu id, fermentum blandit neque. Vestibulum nunc lacus, laoreet quis mauris quis, viverra porta felis. Integer ultrices iaculis venenatis.</p>
+
+                    </div>
+
+<!-------------------------------------------------
+
+            H E A D C A N O N S
+
+-------------------------------------------------->
+                    <div class="tab-pane fade" id="tab3">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Headcanons</h1>
+
+                        <ul style="margin-left:-15px;">
+                            <li>Item.</li>
+                            <li>Item.</li>
+                            <li>Headcanon.
+
+                                <ul style="margin-left:-15px;">
+                                    <li>Sub-Item.</li>
+                                </ul>
+                            </li>
+                            <li>Item.</li>
+                            <li>Item.</li>
+                        </ul>
+
+                    </div>
+
+<!-------------------------------------------------
+
+        R E L A T I O N S H I P S
+
+-------------------------------------------------->
+                    <div class="tab-pane fade" id="tab4">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Relationships</h1>
+
+                        <!------- relationship 1 --------->
+                        <div class="row no-gutters">
+
+                            <div class="col-4 p-1">
+
+                                <!--- img // make it square ---->
+                                <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/5420349?1574484362" class="img-thumbnail rounded-0">
+
+                            </div>
+
+                            <div class="col-8 p-1 text-muted">
+                                <a href="#" style="color:#e44c4c">Character</a>
+                                <hr class="my-0"> A few words about them.
+                            </div>
+
+                        </div>
+
+                        <!------- relationship 2 --------->
+                        <div class="row no-gutters">
+
+                            <div class="col-4 p-1">
+
+                                <!--- img // make it square ---->
+                                <img src="https://f2.toyhou.se/file/f2-toyhou-se/characters/5420349?1574484362" class="img-thumbnail rounded-0">
+
+                            </div>
+
+                            <div class="col-8 p-1 text-muted">
+                                <a href="#" style="color:#e44c4c">Character</a>
+                                <hr class="my-0"> A few words about them.
+                            </div>
+
+                        </div>
+
+                        <!------- PASTE ANY MORE RELATIONSHIPS ABOVE HERE --------->
+
+                    </div>
+
+<!-------------------------------------------------
+
+               M U S I C
+
+-------------------------------------------------->
+                    <div class="tab-pane fade" id="tab5">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Music</h1>
+                        <div class="row no-gutters">
+                            <div class="col-lg-2 hidden-md-down p-1">
+                                
+                                <!------- playlist // this hides on mobile -------->
+                                <a class="btn btn-outline-secondary tooltipster rounded-circle mx-auto text-white py-3 melody-embed" style="position:relative;height:65px;width:65px;">
+                                    
+                                    
+                                    <!------- 
+                                    
+                                    the playlist
+                                    
+                                    change the PLAYLIST_ID to
+                                    your own playlist ID
+                                    
+                                    example: http://prntscr.com/qcfozd
+                                    
+                                    ------------>
+                                      <iframe style="opacity:.01;position:absolute;left:0;right:0;top:0;bottom:0;" class="h-100 w-100 mb-4" src="https://www.youtube.com/embed/videoseries?list=PLAYLIST_ID&amp;showinfo=0" frameborder="0"></iframe>
+                                      <i class="fas fa-play fa-fw fa-2x" style="margin-top:3px;"></i>
+                                      </a>
+
+                            </div>
+                            <div class="col-lg-10 p-1">
+                                <ul class="text-muted mt-lg-2" style="list-style-type:none;letter-spacing:2px;margin-left:-15px;height:153px;overflow:auto;">
+
+                                    <li class="font-weight-bold text-uppercase">Playlist Name</li>
+                                    <hr class="p-0 mb-2 mt-0">
+
+                                    <!----- playlist songs ----->
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+                                    <!------>
+                                    <li><b>Song</b> - Artist Name</li>
+
+                                    <!---- add more before this line ---->
+                                </ul>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+<!-------------------------------------------------
+
+                M I S C.
+
+-------------------------------------------------->
+                    <div class="tab-pane fade" id="tab6">
+                        <!---- title ---->
+                        <h1 class="text-uppercase p-1 display-4 font-weight-bold mb-1" style="font-size:14px;letter-spacing:2px;background:#e44c4c;border-bottom:2px dashed;">Misc.</h1>
+
+                        <ul class="mb-1" style="margin-left:-15px;">
+                            <li>Design Note</li>
+                            <li>Design Note</li>
+                            <li>Design Note
+
+                                <ul style="margin-left:-15px;">
+                                    <li>Comment on above design note.</li>
+                                </ul>
+                            </li>
+                            <li>Item.</li>
+                            <li>Item.</li>
+                        </ul>
+                        <hr class="my-1">
+                        <p class="text-justify">I personally use stuff like this to let artists know what outfits to draw the character in, what not to skip, etc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ullamcorper rutrum consequat. Proin at nisl pretium, viverra sapien vel, iaculis tortor. Nulla fringilla lacus nec arcu sagittis facilisis. Nulla luctus vestibulum aliquam. Proin ac gravida ante.</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+<!-------------------------------------------------
+
+            N A V I G A T I O N
+
+-------------------------------------------------->
+        <div class="col-sm-2 p-1">
+            <div class="card rounded-0 border-0 mt-lg-4 text-center" style="height:224px;">
+                <ul class="nav nav-tabs row card-header-tabs">
+
+                    <!----- btn 1 ----->
+                    <li class="col-12 mb-1">
+                        <a data-toggle="tab" href="#tab1" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-bars text-white"></i>
+                        </a>
+                    </li>
+
+                    <!----- btn 2 ----->
+                    <li class="col-12 mb-1">
+
+                        <a data-toggle="tab" href="#tab2" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-books text-white"></i>
+                        </a>
+                    </li>
+
+                    <!----- btn 3 ----->
+                    <li class="col-12 mb-1">
+                        <a data-toggle="tab" href="#tab3" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-lightbulb text-white"></i>
+                        </a>
+
+                    </li>
+
+                    <!----- btn 4 ----->
+                    <li class="col-12 mb-1">
+
+                        <a data-toggle="tab" href="#tab4" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-heart text-white"></i>
+                        </a>
+
+                    </li>
+
+                    <!----- btn 5 ----->
+                    <li class="col-12 mb-1">
+
+                        <a data-toggle="tab" href="#tab5" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-list-music text-white"></i>
+                        </a>
+
+                    </li>
+
+                    <!----- btn 6 ----->
+                    <li class="col-12 mb-1">
+
+                        <a data-toggle="tab" href="#tab6" class="btn btn-outline-secondary d-flex rounded-0 text-white border-0" style="background: #e44c4c;">
+
+                            <i class="fal fa-star text-white"></i>
+                        </a>
+
+                    </li>
+
+                    <!----- btn 4 ----->
+                    <li class="col-12 mb-0">
+
+                        <div class="card text-left rounded-0 text-muted text-lowercase px-2" style="padding-top:1px;padding-bottom:2px;font-size:10px;">
+                            <a href="https://toyhou.se/5601415" class="text-muted">Code</a>
+                        </div>
+
+                    </li>
+
+                </ul>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>
