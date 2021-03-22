@@ -1,0 +1,75 @@
+<!---------------------------
+   	  
+	PRIDE: INTERSEX VER.
+    Enjoy Pride Month!
+
+	 acc 1: #ffef68
+	 acc 2: #997abd
+	 acc 3: #ffef68
+
+----------------------------->
+
+
+<div class="container p-0 my-lg-5" style="max-width:500px;">
+   <div class="row no-gutters bg-faded" style="overflow:hidden;border-radius:15px;box-shadow: 0px 0px 7px 7px rgba(0,0,0,0.1);">
+      <div style="z-index:1;width:100%;">
+         <!---- link 1 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ffef68;height:50px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="DA_LINK">
+            <i class="fab fa-deviantart p-2" style="font-size:18px;"></i></a>
+         </div>
+         <!---- link 2 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ffef68;height:50px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="TUMBLR_LINK">
+            <i class="fab fa-tumblr p-2" style="font-size:18px;"></i></a>
+         </div>
+         <!---- link 3 ---->
+         <div class="card rounded-0 border-0" style="background-color:#997abd;height:50px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-white" href="FUR_AFFINITY_LINK">
+            <i class="fas fa-paw p-2" style="font-size:18px;"></i></a>
+         </div>
+         <!---- link 4 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ffef68;height:50px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="TWITTER_LINK">
+            <i class="fab fa-twitter p-2" style="font-size:18px;"></i></a>
+         </div>
+         <!---- link 5 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ffef68;height:50px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="ART_FIGHT_LINK">
+            <i class="fas fa-pencil-paintbrush p-2" style="font-size:18px;"></i></a>
+         </div>
+      </div>
+      
+      
+      <div class="card bg-faded border-0 m-3 w-75 p-2" style="z-index:4;position: absolute;border-radius:15px;height:220px;overflow:auto;">
+         <h3 class="display-4 text-lowercase pb-1" style="border-bottom:1px solid #666;font-size:20px;">Username</h3>
+         <div class="row no-gutters">
+
+<!------------------------------------------------------------------------------------------------------------------>
+           
+		<div class="col-6 p-1">
+               <!----- name ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#ffef68;" class="fal fa-user pull-left my-1"></i> content</div>
+               <!----- age / bday ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#ffef68;" class="fal fa-birthday-cake pull-left my-1"></i>content</div>
+               <!----- gender / pronouns -- fa-mars = masc // fa-venus = fem // fa-genderless // fa-transgender // fa-transgender-alt ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#997abd;" class="fal fa-venus pull-left my-1"></i> content</div>
+               <!----- mbti ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#ffef68;" class="fal fa-head-side-brain pull-left my-1"></i> content</div>
+               <!----- song ----->
+               <div class="card d-block p-1 text-right px-2 border-0" style="border-radius:15px;"> <i style="color:#ffef68;" class="fal fa-music pull-left my-1"></i> <a href="SONG LINK" style="color:#ffef68;">content</a></div>
+            </div>
+            <div class="col-6 p-1 text-center">
+               <img style="max-height:160px;" src="IMAGE LINK">
+            </div>
+         </div>
+      </div>
+      
+
+<!------------------------------------------------------------------------------------------------------------------>
+   </div>
+   <!----- CODE CREDIT ------->
+   <a href="https://toyhou.se/Bakuqou/characters/folder:1013392"><i class="fal fa-code text-muted pull-right m-2"></i></a>
+   <!----- IMAGE CREDIT ------>
+   <a href="ARTIST_CREDIT"><i class="fas fa-image text-muted pull-right my-2"></i></a>
+</div>

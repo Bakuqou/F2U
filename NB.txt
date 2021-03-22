@@ -1,0 +1,71 @@
+<!---------------------------
+   	  
+	PRIDE: NB VER.
+    Enjoy Pride Month!
+
+	 acc 1: #ffef68
+	 acc 2: #fff
+	 acc 3: #ab70be
+	 acc 4: #444
+
+----------------------------->
+
+
+<div class="container p-0 my-lg-5" style="max-width:500px;">
+   <div class="row no-gutters bg-faded" style="overflow:hidden;border-radius:15px;box-shadow: 0px 0px 7px 7px rgba(0,0,0,0.1);">
+      <div style="z-index:1;width:100%;">
+         <!---- link 1 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ffef68;height:63px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="DA_LINK">
+            <i class="fab fa-deviantart py-3 px-2" style="font-size:20px;"></i></a>
+         </div>
+         <!---- link 2 ---->
+         <div class="card rounded-0 border-0" style="background-color:#fff;height:63px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-faded" href="TUMBLR_LINK">
+            <i class="fab fa-tumblr py-3 px-2" style="font-size:20px;"></i></a>
+         </div>
+         <!---- link 3 ---->
+         <div class="card rounded-0 border-0" style="background-color:#ab70be;height:63px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-white" href="FUR_AFFINITY_LINK">
+            <i class="fas fa-paw py-3 px-2" style="font-size:20px;"></i></a>
+         </div>
+         <!---- link 4 ---->
+         <div class="card rounded-0 border-0" style="background-color:#444;height:63px;">
+            <a class="h-100 btn btn-outline-secondary border-0 rounded-0 text-right text-white" href="TWITTER_LINK">
+            <i class="fab fa-twitter py-3 px-2" style="font-size:20px;"></i></a>
+         </div>
+      </div>
+      
+      
+      <div class="card bg-faded border-0 m-3 w-75 p-2" style="z-index:4;position: absolute;border-radius:15px;height:220px;overflow:auto;">
+         <h3 class="display-4 text-lowercase pb-1" style="border-bottom:1px solid #666;font-size:20px;">Username</h3>
+         <div class="row no-gutters">
+
+<!------------------------------------------------------------------------------------------------------------------>
+           
+		<div class="col-6 p-1">
+               <!----- name ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#ffef68;" class="fal fa-user pull-left my-1"></i> content</div>
+               <!----- age / bday ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#fff;" class="fal fa-birthday-cake pull-left my-1"></i>content</div>
+               <!----- gender / pronouns -- fa-mars = masc // fa-venus = fem // fa-genderless // fa-transgender // fa-transgender-alt ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#ab70be;" class="fal fa-genderless pull-left my-1"></i> content</div>
+               <!----- mbti ----->
+               <div class="card d-block p-1 text-right px-2 mb-1 border-0" style="border-radius:15px;"> <i style="color:#444;" class="fal fa-head-side-brain pull-left my-1"></i> content</div>
+               <!----- song ----->
+               <div class="card d-block p-1 text-right px-2 border-0" style="border-radius:15px;"> <i style="color:#000;" class="fal fa-music pull-left my-1"></i> <a href="SONG LINK" style="color:#000;">content</a></div>
+            </div>
+            <div class="col-6 p-1 text-center">
+               <img style="max-height:160px;" src="IMAGE LINK">
+            </div>
+         </div>
+      </div>
+      
+
+<!------------------------------------------------------------------------------------------------------------------>
+   </div>
+   <!----- CODE CREDIT ------->
+   <a href="https://toyhou.se/Bakuqou/characters/folder:1013392"><i class="fal fa-code text-muted pull-right m-2"></i></a>
+   <!----- IMAGE CREDIT ------>
+   <a href="ARTIST_CREDIT"><i class="fas fa-image text-muted pull-right my-2"></i></a>
+</div>
