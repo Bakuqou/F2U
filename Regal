@@ -1,0 +1,615 @@
+<!---------------------------------------------
+
+		regal by bakuqou
+
+	    ty for using and enjoy !
+		happy halloween
+
+		accent: #e6c99f
+
+----------------------------------------------->
+
+
+
+<div class="container p-0" style="max-width:650px;">
+   
+    <ul class="nav nav-tabs card-header-tabs row mt-5 ml-3" style="max-width:300px;font-family:Georgia, serif;font-style: italic;">
+  <li class="col-2 p-0 p-0"><a class="active text-muted" data-toggle="tab" href="#i" style="font-size:26pt;">i.</a></li>
+  <li class="col-2 p-0"><a class="text-muted" data-toggle="tab" href="#ii" style="font-size:26pt;">ii.</a></li>
+  <li class="col-2 p-0"><a class="text-muted" data-toggle="tab" href="#iii" style="font-size:26pt;">iii.</a></li>
+  <li class="col-2 p-0"><a class="text-muted" data-toggle="tab" href="#iv" style="font-size:26pt;">iv.</a></li>
+  <li class="col-2 p-0"><a class="text-muted" data-toggle="tab" href="#v" style="font-size:26pt;">v.</a></li>
+</ul>
+    
+    
+    <div class="card m-0 bg-faded border-0" style="border-radius:15px;box-shadow: 0px 0px 10px #000;">
+        
+       <div class="row no-gutters">
+           
+           <div class="col-lg-7 p-0">
+
+
+ <!------------ tab content ------------>
+<div class="tab-content" style="height:450px;overflow:auto;">
+    
+ <!------------ first ------------>
+  <div class="tab-pane fade active show" id="i">
+        <div class="p-4">
+         
+         <!------------ header ------------>
+        <h2 class="display-4 m-0" style="font-family:Georgia, serif;font-style: italic;letter-spacing:2px;font-size:18pt;color:#e6c99f;">Character</h2>
+        <hr class="mt-1 mb-2">
+        
+        
+        <!------------ story ------------>
+         
+         
+         <p>A mini introduction for your character, maybe like a blurb for their story or background. Don't make this more than a few sentences, or else you will have an uneven front page....</p>
+            
+         <hr>   
+            
+             <!------------ basic stats ------------>
+            <!------------------------
+                            
+                    LEFT SIDE
+                                    
+            -------------------------->
+             <div class="row no-gutters">
+                            <div class="col-sm">
+
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-user fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">name</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50"><i class="fal fa-calendar-star ml-1 fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">age</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-venus-mars fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">pronouns</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-birthday-cake fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">birthdate</span>
+                                </div>
+
+                            </div>
+                            
+                            
+                            <div class="col-auto p-2 hidden-xs-down">
+                                <div class="card h-100 rounded-0" style="border-width:0 1px 0 0"></div>
+                            </div>
+                            
+                            <!------------------------
+                            
+                                    RIGHT SIDE
+                                    
+                            -------------------------->
+                            <div class="col-sm">
+
+                                <hr class="hidden-sm-up" style="margin:14px 4px;">
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-dna fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">species</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-briefcase fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">job</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-map-marker-alt fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">location</span>
+                                </div>
+                                
+                                
+                                <div class="d-flex">
+                                    <span class="w-50 p-1"><i class="fal fa-brush fa-fw" style="color:#e6c99f;"></i></span>
+                                    <span class="w-50 p-1 text-right">designer</span>
+                                </div>
+                            </div>
+                            
+                            
+            
+            <!---- end 1 ----->
+            
+            
+        </div>
+        
+        <hr>
+         <!------------ quote ------------>
+        <h4 class="display-4 px-3 text-muted" style="font-family:Georgia, serif;font-style: italic;font-size:16pt;">
+            
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            
+        </h4>
+         <!------------ quote author ------------>
+        <h5 class="text-right" style="font-size:10pt;color:#e6c99f;"> — Author, 2020</h5>
+          
+          
+         
+          
+        </div>
+        
+        
+
+  </div>
+
+ <!------------ second ------------>
+  <div class="tab-pane fade" id="ii">
+      <div class="p-4 text-justify">
+         <h2 class="display-4 m-0" style="font-family:Georgia, serif;font-style: italic;letter-spacing:2px;font-size:18pt;color:#e6c99f;">Story</h2>
+        <hr class="mt-1 mb-2">
+          
+          <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam malesuada sapien vitae consectetur venenatis. Cras consequat justo id eros vestibulum, nec vestibulum quam malesuada. Ut tincidunt tristique nisl, eu tempus elit tempor id. Fusce vulputate mollis accumsan. Maecenas convallis non velit quis posuere. Nullam quis lobortis magna, ac tristique ligula. Quisque elementum massa et rhoncus pharetra.
+</p>
+
+<!----- subheader - feel free to delete ------->
+<h4 class="mb-1 text-muted text-lowercase" style="border-bottom:1px dashed #e6c99f;font-family:Georgia, serif;font-style: italic;letter-spacing:2px;">Subheader</h4>
+
+
+<p>
+Vestibulum eu ornare lacus. Suspendisse sed feugiat tellus, nec tristique justo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. </p>
+
+<!----- spoiler / warning -------->
+<h2 class="btn btn-outline-secondary text-uppercase d-block text-center rounded-0 p-1" href="#spoiler" data-toggle="collapse" style="letter-spacing:2px;">Spoiler</h2>
+    <div id="spoiler" class="collapse mb-2">
+     Spoiler text. You can put a spoiler in here, or upsetting content, or anything you wish. 
+    </div>
+
+<p>Sed volutpat erat nec dignissim finibus. Ut at purus vel ipsum consectetur pretium vitae nec odio. Curabitur iaculis nulla mauris, in scelerisque nulla posuere id. Phasellus varius erat leo, eget rutrum lorem ultrices quis. Etiam efficitur ipsum mauris, a blandit ipsum pretium ac.
+</p>
+
+          
+        </div>
+  </div>
+  
+  <!------------ third ------------>
+  <div class="tab-pane fade" id="iii">
+      <div class="p-4">
+         <h2 class="display-4 m-0" style="font-family:Georgia, serif;font-style: italic;letter-spacing:2px;font-size:18pt;color:#e6c99f;">Stats</h2>
+        <hr class="mt-1 mb-2">
+        
+        
+        
+        <div class="row no-gutters">
+            
+            <!----- likes ----->
+            <div class="col-6 p-1">
+            
+            <b style="color:#e6c99f;letter-spacing:2px;">Likes</b>
+            <ul style="list-style:none;margin-left:-20px;">
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                
+                
+            </ul>    
+            </div>
+            
+            
+            <!----- likes ----->
+            <div class="col-6 p-1">
+            
+            <b style="color:#e6c99f;letter-spacing:2px;">Dislikes</b>
+            <ul style="list-style:none;margin-left:-20px;">
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                <li>Like</li>
+                
+                
+            </ul>    
+            </div>
+        </div>
+        
+        <hr class="my-0">
+        
+        <!-------- personality -------->
+        
+<!-----------------------------------
+         replace the 50% 
+------------------------------------->
+<div class="col-12 p-0 mb-2 mt-1">
+    Introvert <span class="pull-right">            Extrovert</span>
+    
+    <div class="progress rounded-0 d-block mt-1" style="height:8px;">
+        <div class="progress-bar card-primary" 
+            style="background:none; border-right:5px solid #e6c99f;width:   
+                        
+                        
+                                50%
+                        
+                        
+                        
+                        ">
+            </div>
+        </div>
+    </div>
+    
+    
+<!-----------------------------------
+         replace the 50% 
+------------------------------------->
+<div class="col-12 p-0 mb-2 mt-1">
+    Friendly <span class="pull-right">            Challenging</span>
+    
+    <div class="progress rounded-0 d-block mt-1" style="height:8px;">
+        <div class="progress-bar card-primary" 
+            style="background:none; border-right:5px solid #e6c99f;width:   
+                        
+                        
+                                50%
+                        
+                        
+                        
+                        ">
+            </div>
+        </div>
+    </div>
+    
+    
+<!-----------------------------------
+         replace the 50% 
+------------------------------------->
+<div class="col-12 p-0 mb-2 mt-1">
+    Curious <span class="pull-right">            Cautious</span>
+    
+    <div class="progress rounded-0 d-block mt-1" style="height:8px;">
+        <div class="progress-bar card-primary" 
+            style="background:none; border-right:5px solid #e6c99f;width:   
+                        
+                        
+                                50%
+                        
+                        
+                        
+                        ">
+            </div>
+        </div>
+    </div>
+    
+    
+<!-----------------------------------
+         replace the 50% 
+------------------------------------->
+<div class="col-12 p-0 mb-2 mt-1">
+    Nervous <span class="pull-right">            Confident</span>
+    
+    <div class="progress rounded-0 d-block mt-1" style="height:8px;">
+        <div class="progress-bar card-primary" 
+            style="background:none; border-right:5px solid #e6c99f;width:   
+                        
+                        
+                                50%
+                        
+                        
+                        
+                        ">
+            </div>
+        </div>
+    </div>
+    
+<!-----------------------------------
+         replace the 50% 
+------------------------------------->
+<div class="col-12 p-0 mb-2 mt-1">
+    Disciplined <span class="pull-right">            Carefree</span>
+    
+    <div class="progress rounded-0 d-block mt-1" style="height:8px;">
+        <div class="progress-bar card-primary" 
+            style="background:none; border-right:5px solid #e6c99f;width:   
+                        
+                        
+                                50%
+                        
+                        
+                        
+                        ">
+            </div>
+        </div>
+    </div>
+          
+          
+        </div>
+  </div>
+  
+  
+   <!------------ fourth ------------>
+  <div class="tab-pane fade" id="iv">
+      <div class="p-4">
+         <h2 class="display-4 m-0" style="font-family:Georgia, serif;font-style: italic;letter-spacing:2px;font-size:18pt;color:#e6c99f;">Relationships</h2>
+        <hr class="mt-1 mb-2">
+        
+        <!--- start link --->
+        <div class="row no-gutters">
+            
+            <div class="col-4 p-1">
+            
+            <!--- image ---->
+            <img src="
+            
+            https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+            
+            " class="img-thumbnail rounded-0 w-100 border-0" style="height:100px;">
+                
+            </div>
+            
+            <div class="col-8 p-1">
+                
+                <div class="card d-block p-1 text-right px-2 mb-1 border-0 rounded-0"> 
+                     <!----- CHANGE THE fa-heart FOR ANOTHER ICON ----->
+                     <i style="color:#e6c99f;" class="fal fa-heart pull-left my-1"></i> name</div>
+                     
+                     <p class="p-0 m-0 text-muted" style="font-size:11px;">This is some info about the relationship your character has with this character. Basic info works best.</p>
+                
+                
+            </div>
+            
+            
+            
+            
+        </div>
+        <hr class="my-1">
+        <!--- end link --->
+        
+        
+        <!--- start link --->
+        <div class="row no-gutters">
+            
+            <div class="col-4 p-1">
+            
+            <!--- image ---->
+            <img src="
+            
+            https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+            
+            " class="img-thumbnail rounded-0 w-100 border-0" style="height:100px;">
+                
+            </div>
+            
+            <div class="col-8 p-1">
+                
+                <div class="card d-block p-1 text-right px-2 mb-1 border-0 rounded-0"> 
+                     <!----- CHANGE THE fa-heart FOR ANOTHER ICON ----->
+                     <i style="color:#e6c99f;" class="fal fa-heart pull-left my-1"></i> name</div>
+                     
+                     <p class="p-0 m-0 text-muted" style="font-size:11px;">This is some info about the relationship your character has with this character. Basic info works best.</p>
+                
+                
+            </div>
+            
+            
+            
+            
+        </div>
+        <hr class="my-1">
+        <!--- end link --->
+        
+        
+        <!--- start link --->
+        <div class="row no-gutters">
+            
+            <div class="col-4 p-1">
+            
+            <!--- image ---->
+            <img src="
+            
+            https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
+            
+            " class="img-thumbnail rounded-0 w-100 border-0" style="height:100px;">
+                
+            </div>
+            
+            <div class="col-8 p-1">
+                
+                <div class="card d-block p-1 text-right px-2 mb-1 border-0 rounded-0"> 
+                     <!----- CHANGE THE fa-heart FOR ANOTHER ICON ----->
+                     <i style="color:#e6c99f;" class="fal fa-heart pull-left my-1"></i> name</div>
+                     
+                     <p class="p-0 m-0 text-muted" style="font-size:11px;">This is some info about the relationship your character has with this character. Basic info works best.</p>
+                
+                
+            </div>
+            
+            
+            
+            
+        </div>
+        <hr class="my-1">
+        <!--- end link --->
+          
+          
+        </div>
+  </div>
+  
+  
+  
+   <!------------ fifth ------------>
+  <div class="tab-pane fade" id="v">
+      <div class="p-4">
+         <h2 class="display-4 m-0" style="font-family:Georgia, serif;font-style: italic;letter-spacing:2px;font-size:18pt;color:#e6c99f;">Aesthetics</h2>
+        <hr class="mt-1 mb-2">
+        
+        
+        <div class="row no-gutters">
+            
+            <!---------- image ------------>
+            <div class="col-6 p-1">
+                <div class="card rounded-0 mb-2 w-100" style="height:100px;background-image:url(
+                
+                
+                        https://i.pinimg.com/564x/39/85/0c/39850cfcd12b5b48697cdab6a2aa7869.jpg
+                        
+                
+                );background-size:cover;background-repeat:no-repeat;"></div>
+            
+                <div class="card rounded-0 w-100" style="height:100px;background-image:url(
+                
+                
+                        https://i.pinimg.com/564x/0f/83/ca/0f83ca78c9cbbe179c654b0f238278fc.jpg
+                        
+                
+                );background-size:cover;background-repeat:no-repeat;"></div>
+            </div>
+            
+            
+            <!---------- image ------------>
+            <div class="col-6 p-1">
+                <div class="card rounded-0 mb-2 w-100" style="height:100px;background-image:url(
+                
+                
+                        https://i.pinimg.com/originals/44/ef/7c/44ef7c0d2607b871d12311e51311901e.jpg
+                        
+                
+                );background-size:cover;background-repeat:no-repeat;"></div>
+            
+                <div class="card rounded-0 w-100" style="height:100px;background-image:url(
+                
+                
+                        https://i.pinimg.com/564x/24/ea/ae/24eaaed409ea9444d21cc3d0e91f0d36.jpg
+                        
+                
+                );background-size:cover;background-repeat:no-repeat;"></div>
+            </div>
+            
+            
+            
+        </div>
+        
+        <hr class="mb-2">
+        
+        <div class="row no-gutters">
+            
+            <div class="col-2 p-1">
+                
+                <!------- the button thing / wouldnt reccomend changing it ------------>
+                  <a class="p-0 btn btn-outline-dark melody-embed" style="border:0;position:relative;height:1rem;width:1rem;z-index:9;color:#fff;margin-top:-5px;">
+                     <!---- playlist ID -- it's the code on the end of your playlist link that starts with PL ----->
+                     <iframe style="opacity:.00001;position:absolute;left:0;right:0;top:0;bottom:0;" class="h-100 w-100"
+                        src="
+                        
+                        <!-----------------------------------------------  PLAYLIST LINKS ----------------------------------------------->
+                        
+                        <!----------------------
+                            >>>> just 1 song
+                            >>>> paste video ID after embed/
+                        ------------------------>
+                        
+                        https://www.youtube.com/embed/evG4OZ3RzK8
+                        
+                        
+                         <!----------------------
+                            >>>> playlist
+                            >>>> paste playlist ID after list=
+                        ------------------------>
+                        
+                       https://www.youtube.com/embed/videoseries?list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl
+                       
+                       <!------------------------------------------------------------------------------------- 
+                       
+                                               delete everything except the youtube 
+                                               link above, even these indicators 
+                       
+                       ------------------------------------------------------------------------------------->
+                        
+                        
+                        " frameborder="0"></iframe>
+                     <i class="fas fa-play fa-fw text-left" style="z-index:-1;"></i>
+                  </a>    
+                
+            </div>
+            
+            
+            <div class="col-5 p-1">
+            
+                <ul class="p-0 mb-0" style="list-style:none;margin-left:-20px;">
+                <li>Song - Artist</li>
+                <li>Song - Artist</li>
+                <li>Song - Artist</li>
+
+            </ul>     
+                
+                
+            </div>
+            <div class="col-5 p-1 mb-0">
+            
+            <ul class="p-0 mb-0" style="list-style:none;margin-left:-20px;">
+                <li>Song - Artist</li>
+                <li>Song - Artist</li>
+                <li>Song - Artist</li>
+
+            </ul>     
+                
+                
+            </div>
+            
+            
+            
+        </div>
+        
+        <hr class="mt-3">
+        
+        
+        <!--------- design / art credits ----------->
+        <div class="row no-gutters mx-auto" style="font-size:10px;margin-top:-5px;">
+            
+            <div class="col-5 text-center">Designed by @User</div>
+            
+            <div class="col-2 text-center mt-1">•</div>
+            
+            <div class="col-5 text-center">Sidebar by @User</div>
+            
+        </div>
+          
+          
+        </div>
+  </div>
+  
+  
+  <!----- end tabs -------->
+</div>
+               
+               
+           </div>
+           
+           
+           <div class="col-lg-5 p-0">
+               
+               <!----- image ------>
+               <div class="card h-100 border-0" style="background-image:url('
+               
+               CHARACTER_IMAGE_HERE_////_PORTRAIT_WORKS_BEST
+               
+               ');background-position:center;min-height:200px;background-size:cover;border-radius:0px 15px 15px 0px;">
+                   
+                   
+                   
+               </div>
+               
+           </div>
+           
+           
+           
+       </div>
+        
+        
+    </div>
+
+    <a href="https://toyhou.se/8458108" class="pull-right mr-2 mt-1 text-muted"><i class="fal fa-code"></i></a>
+</div>
