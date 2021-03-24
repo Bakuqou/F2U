@@ -1,0 +1,405 @@
+<!---------------------------------------------------------
+
+                ningguang by bakucodes
+                    
+                    gold: #d2ae5a
+
+----------------------------------------------------------->
+<div class="container-fluid px-0 py-lg-5" style="max-width:800px;font-size:12px;">
+	<div class="card mx-auto" style="height:140px;width:140px;margin-bottom:-130px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background:#d2ae5a;"></div>
+	<!--- icon --->
+	<div class="card mx-auto" style="height:120px;width:120px;margin-bottom:-50px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
+
+    background-image:url(https://64.media.tumblr.com/75896ce276e3e44aea59e8c2e5455348/71c71c2c77027206-88/s500x750/f8e65fbc28a0c80ed5b10877b99f4d65b988ffc0.png);
+
+"></div>
+	<div class="card mx-auto rounded-0 mx-lg-5" style="height:10px;background:#d2ae5a;">
+	    
+		<h1 class="display-4 text-uppercase text-left hidden-md-down" style="margin-top:-45px;">     Ningguang     </h1>
+		
+		<h1 class="display-4 text-uppercase text-right mr-2 hidden-md-down" style="margin-top:-45px;">   凝光    </h1>
+	</div>
+	<div class="card mx-auto rounded-0 mt-2 mb-1" style="width:100%;height:30px;background:#d2ae5a;"></div>
+	<div class="row no-gutters">
+		<div class="col-auto hidden-md-down p-1">
+			<div class="card border-0 rounded-0" style="background:#d2ae5a;width:35px;height:35px;"></div>
+			<div class="card border-0 rounded-0 mt-1 mx-auto" style="background:#d2ae5a;width:15px;height:100px;"></div>
+		</div>
+		<!-------------------------------------------------------
+                    left side
+-------------------------------------------------------->
+		<div class="col-lg p-1">
+			<div class="card rounded-0 border-0 bg-faded p-2 text-justify" style="height:433px;overflow:auto;">
+				<!-------------------------------------------------------
+                        story
+-------------------------------------------------------->
+				<p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus sem urna. Sed fermentum enim id augue tristique consectetur. Cras sagittis est in erat suscipit tincidunt. Maecenas vel odio velit. Pellentesque pellentesque nulla ac felis pretium molestie. Phasellus velit nisl, ornare quis mauris dictum, molestie commodo quam. Etiam sed nibh ac leo condimentum sollicitudin eu a dolor. Sed eu mattis sapien. Nullam facilisis augue magna, eget venenatis risus feugiat at. Nulla dapibus magna vel nulla volutpat aliquam. Nunc id neque ex.
+            </p>
+				<p>
+            Etiam ac purus nulla. Fusce dignissim ac neque vitae faucibus. Cras quam leo, interdum id sagittis sed, venenatis ac purus. Maecenas pellentesque mauris vel quam tincidunt, vitae porta eros ullamcorper. Ut ac scelerisque augue. Cras eros orci, sodales a massa sit amet, vulputate venenatis orci. In pulvinar odio ac ornare rutrum.
+            </p>
+				<p>
+Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elementum nulla felis sit amet ex. Aliquam malesuada tortor varius, egestas odio id, varius velit. Aliquam viverra, sapien sed luctus consequat, erat sem volutpat massa, a tristique massa sapien sit amet risus. Proin est est, volutpat vitae nunc eu, vestibulum pellentesque purus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam placerat luctus tincidunt. Nulla in pulvinar velit. Donec consectetur nisl vel mi semper consequat. Etiam at volutpat ex. Mauris pretium mi vel lacus sollicitudin, et consectetur tortor fermentum. Etiam porttitor cursus diam nec rutrum. Pellentesque fringilla nisi ac ex porta luctus. Aliquam et ipsum libero. Aliquam velit ipsum, dictum quis tincidunt vitae, ornare at erat. Aliquam erat volutpat.
+</p>
+			</div>
+		</div>
+		<!-------------------------------------------------------
+                    right sided
+-------------------------------------------------------->
+		<div class="col-lg p-1">
+			<div class="card rounded-0 border-0 bg-faded p-2" style="height:433px;overflow:auto;">
+				<div class="accordion md-accordion" id="accordion">
+					<!-------------------------------------------------------
+                        accordian
+-------------------------------------------------------->
+					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#one" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
+						<i class="fad fa-square-full pull-left fa-fw" style="color:#d2ae5a;"></i> 
+         
+                            Info 
+         
+         
+						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
+					</a>
+					<div id="one" class="collapse show mb-2" role="tabpanel" aria-labelledby="heading1"
+      data-parent="#accordion">
+						<!-------------------------------------------------------
+                        info
+-------------------------------------------------------->
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Name</span>
+							<!---- name ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Age</span>
+							<!---- age ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-truncate text-muted" style="letter-spacing:1px;">Gender</span>
+							<!---- gender ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Orientation</span>
+							<!---- orientation ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Race</span>
+							<!---- race ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Occupation</span>
+							<!---- occupation ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Element</span>
+							<!---- element ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">Zodiac</span>
+							<!---- zodiac ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+						<div class="row no-gutters">
+							<span class="col-auto p-1 text-uppercase text-muted" style="letter-spacing:1px;">MBTI</span>
+							<!---- mbti ---->
+							<span class="col p-1 text-right">   content   </span>
+						</div>
+					</div>
+					<!-------------------------------------------------------
+                        stats section
+-------------------------------------------------------->
+					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#two" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
+						<i class="fad fa-square-full pull-left fa-fw" style="color:#d2ae5a;"></i> 
+					    
+					                        Stats 
+					    
+					    
+						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
+					</a>
+					<div id="two" class="collapse mb-2" role="tabpanel" aria-labelledby="heading1" data-parent="#accordion">
+						<!-------------------------------------------------------
+                        stats
+-------------------------------------------------------->
+						<div class="d-flex">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Cooperation</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px;">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                          width: 50%;
+
+                                          background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Creativity</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                          width: 50%;
+
+                                          background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:2px;">Wit</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                          width: 50%;
+
+                                          background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Confidence</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                                  background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:2px;">Humor</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                         background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-uppercase text-muted" style="letter-spacing:2px;">Empathy</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                        background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Heroism</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                        background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Style</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                        background:#d2ae5a;"></div>
+							</div>
+						</div>
+						<div class="d-flex mb-0">
+							<span class="w-50 p-1 text-truncate text-uppercase text-muted" style="letter-spacing:2px;">Charisma</span>
+							<div class="w-50 mx-1 progress my-auto rounded-0" style="height:4px">
+								<!---- change the 50% ---->
+								<div class="progress-bar" style="
+
+                                         width: 50%;
+
+                                         background:#d2ae5a;"></div>
+							</div>
+						</div>
+					</div>
+					<!-------------------------------------------------------
+                        links
+-------------------------------------------------------->
+					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#three" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
+						<i class="fad fa-square-full pull-left fa-fw" style="color:#d2ae5a;"></i> 
+					    
+					    
+					                Links
+					    
+					    
+					    
+						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
+					</a>
+					<div id="three" class="collapse mb-2" role="tabpanel" aria-labelledby="heading1"
+      data-parent="#accordion">
+						<!-------------------------------------------------------
+                        link 1
+-------------------------------------------------------->
+						<div class="row no-gutters mb-2">
+							<div class="col-lg-auto p-1">
+								<div class="card mx-auto" style="height:140px;width:140px;margin-bottom:-130px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background:#d2ae5a;"></div>
+								<!----- link icon ----->
+								<div class="card mx-auto" style="height:120px;width:120px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
+            	
+            	        background-image:url(https://64.media.tumblr.com/d2b9ebb7177bffc8cd6b5716ea1b47f2/1d5d9363b08e4751-a0/s400x600/e73cdec1d1c3711d8d890f2db32ac9e591216173.jpg);
+            	
+            	"></div>
+							</div>
+							<!----- link info ----->
+							<div class="col p-1" style="">
+								<!----- link name ----->
+								<div class="card w-100 text-uppercase rounded-0 border-0 px-2 py-1 mb-1" style="color:#d2ae5a;letter-spacing:2px;">Name</div>
+								<!----- link about ----->
+								<div class="card w-100 rounded-0 border-0 px-2 py-1" style="height:100px;overflow:auto;">Info about their relationship.</div>
+							</div>
+						</div>
+						<!-------------------------------------------------------
+                        link 1
+-------------------------------------------------------->
+						<div class="row no-gutters">
+							<div class="col-lg-auto p-1">
+								<div class="card mx-auto" style="height:140px;width:140px;margin-bottom:-130px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background:#d2ae5a;"></div>
+								<!----- link icon ----->
+								<div class="card mx-auto" style="height:120px;width:120px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
+            	
+            	        background-image:url(https://64.media.tumblr.com/446c3a165647608bfe7612b96a748d78/f494c0075c940297-74/s640x960/b5c13dc76b2f15b89ef3b7f962a6037a9d442ba3.jpg);
+            	
+            	"></div>
+							</div>
+							<!----- link info ----->
+							<div class="col p-1" style="">
+								<!----- link name ----->
+								<div class="card w-100 text-uppercase rounded-0 border-0 px-2 py-1 mb-1" style="color:#d2ae5a;letter-spacing:2px;">Name</div>
+								<!----- link about ----->
+								<div class="card w-100 rounded-0 border-0 px-2 py-1" style="height:100px;overflow:auto;">Info about their relationship.</div>
+							</div>
+						</div>
+						<!--- end links --->
+					</div>
+					<!-------------------------------------------------------
+                        trivia
+-------------------------------------------------------->
+					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#four" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
+						<i class="fad fa-square-full pull-left fa-fw" style="color:#d2ae5a;"></i> Trivia 
+						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
+					</a>
+					<div id="four" class="collapse mb-2" role="tabpanel" aria-labelledby="heading1"
+      data-parent="#accordion">
+						<ul class="fa-ul">
+							<li>
+								<span class="fa-li">
+									<i class="fad fa-diamond" style="color:#d2ae5a"></i>
+								</span>   A bit of Trivia.
+							</li>
+							<li>
+								<span class="fa-li">
+									<i class="fad fa-diamond" style="color:#d2ae5a"></i>
+								</span>   A bit of Trivia.
+							</li>
+							<li>
+								<span class="fa-li">
+									<i class="fad fa-diamond" style="color:#d2ae5a"></i>
+								</span>   A bit of Trivia.
+							</li>
+							<li>
+								<span class="fa-li">
+									<i class="fad fa-diamond" style="color:#d2ae5a"></i>
+								</span>   A bit of Trivia.
+							</li>
+						</ul>
+						<p class="text-justify">A paragraph of trivia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus sem urna. Sed fermentum enim id augue tristique consectetur. Cras sagittis est in erat suscipit tincidunt. Maecenas vel odio velit. Pellentesque pellentesque nulla ac felis pretium molestie. Phasellus velit nisl, ornare quis mauris dictum, molestie commodo quam. Etiam sed nibh ac leo condimentum sollicitudin eu a dolor. Sed eu mattis sapien. Nullam facilisis augue magna, eget venenatis risus feugiat at. Nulla dapibus magna vel nulla volutpat aliquam. Nunc id neque ex.</p>
+					</div>
+					<!-------------------------------------------------------
+                        misc
+-------------------------------------------------------->
+					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#five" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
+						<i class="fad fa-square-full pull-left fa-fw" style="color:#d2ae5a;"></i> Misc 
+						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
+					</a>
+					<div id="five" class="collapse mb-0" role="tabpanel" aria-labelledby="heading1"
+      data-parent="#accordion">
+						<div class="row no-gutters">
+							<div class="col-12 p-1">
+								<div class="card rounded-0 border-0 p-2">
+									<div class="row no-gutters">
+										<div class="col-auto">
+											<a class="p-0 mt-1 btn btn-outline-dark" style="border:0;position:relative;height:15px;width:15px;z-index:2;color:#999;">
+												<!---- playlist ID ----->
+												<iframe style="opacity:.0001;position:absolute;left:0;right:0;top:0;bottom:0;" class="h-100 w-100"
+                                  src="
+                                  
+                                  https://www.youtube.com/embed/8cNVm6yiiwY
+                                  
+                                  " frameborder="0"></iframe>
+												<i class="fas fa-play fa-fw" style="z-index:-1;position:absolute;left:0;top:0;font-size:12px;text-align:center;height:100%;width:100%;"></i>
+											</a>
+										</div>
+										<div class="col px-2">
+											<hr class="my-2">
+											</div>
+											<div class="col-auto">Song Name</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-lg-6 p-1">
+									<!----- aesthetic image ----->
+									<div class="card d-block rounded-0 border-0" style="height:100px;
+        
+                background-image:url('https://images.unsplash.com/photo-1518779737284-161fc061f38a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')
+        
+                ;background-size:cover;"></div>
+								</div>
+								<!----- aesthetic image ----->
+								<div class="col-lg-6 p-1">
+									<div class="card d-block rounded-0 border-0" style="height:100px;
+        
+                background-image:url('https://images.unsplash.com/photo-1558723223-0f8c63ea0fed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80')
+        
+                ;background-size:cover;"></div>
+								</div>
+								<!----- aesthetic image ----->
+								<div class="col-lg-6 p-1">
+									<div class="card d-block rounded-0 border-0" style="height:100px;
+        
+                background-image:url('https://images.unsplash.com/photo-1509437142917-63dfe86dcbec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80')
+        
+                ;background-size:cover;"></div>
+								</div>
+								<!----- aesthetic image ----->
+								<div class="col-lg-6 p-1">
+									<div class="card d-block rounded-0 border-0" style="height:100px;
+        
+                background-image:url('https://images.unsplash.com/photo-1504280539878-538b933c05b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')
+        
+                ;background-size:cover;"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!---- end accordian ---->
+				</div>
+			</div>
+			<!-------------------------------------------------------
+                        decor
+-------------------------------------------------------->
+			<div class="col-auto hidden-md-down p-1">
+				<div class="card border-0 rounded-0" style="background:#d2ae5a;width:35px;height:35px;"></div>
+				<div class="card border-0 rounded-0 mt-1 mx-auto" style="background:#d2ae5a;width:15px;height:100px;"></div>
+			</div>
+			<div class="card mx-auto rounded-0 mb-2 mt-1" style="width:100%;height:30px;background:#d2ae5a;">
+				<a href="https://toyhou.se/10438545" class="fal fa-code my-auto p-2 text-right text-white"></a>
+			</div>
+			<div class="card mx-auto rounded-0" style="width:85%;height:10px;background:#d2ae5a;"></div>
+		</div>
+		<!--- end container --->
+	</div>
