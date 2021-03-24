@@ -10,7 +10,7 @@
 	<!--- icon --->
 	<div class="card mx-auto" style="height:120px;width:120px;margin-bottom:-50px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
 
-    background-image:url(https://64.media.tumblr.com/75896ce276e3e44aea59e8c2e5455348/71c71c2c77027206-88/s500x750/f8e65fbc28a0c80ed5b10877b99f4d65b988ffc0.png);
+    background-image:url(ICON_HERE);
 
 "></div>
 	<div class="card mx-auto rounded-0 mx-lg-5" style="height:10px;background:#d2ae5a;">
@@ -50,7 +50,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 		<div class="col-lg p-1">
 			<div class="card rounded-0 border-0 bg-faded p-2" style="height:433px;overflow:auto;">
 				<div class="accordion md-accordion" id="accordion">
-					<!-------------------------------------------------------
+<!-------------------------------------------------------
                         accordian
 -------------------------------------------------------->
 					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#one" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
@@ -63,7 +63,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 					</a>
 					<div id="one" class="collapse show mb-2" role="tabpanel" aria-labelledby="heading1"
       data-parent="#accordion">
-						<!-------------------------------------------------------
+<!-------------------------------------------------------
                         info
 -------------------------------------------------------->
 						<div class="row no-gutters">
@@ -112,7 +112,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 							<span class="col p-1 text-right">   content   </span>
 						</div>
 					</div>
-					<!-------------------------------------------------------
+<!-------------------------------------------------------
                         stats section
 -------------------------------------------------------->
 					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#two" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
@@ -124,7 +124,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 						<i class="fad fa-square-full pull-right fa-fw" style="color:#d2ae5a;"></i>
 					</a>
 					<div id="two" class="collapse mb-2" role="tabpanel" aria-labelledby="heading1" data-parent="#accordion">
-						<!-------------------------------------------------------
+<!-------------------------------------------------------
                         stats
 -------------------------------------------------------->
 						<div class="d-flex">
@@ -227,7 +227,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 							</div>
 						</div>
 					</div>
-					<!-------------------------------------------------------
+<!-------------------------------------------------------
                         links
 -------------------------------------------------------->
 					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#three" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
@@ -242,7 +242,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 					</a>
 					<div id="three" class="collapse mb-2" role="tabpanel" aria-labelledby="heading1"
       data-parent="#accordion">
-						<!-------------------------------------------------------
+<!-------------------------------------------------------
                         link 1
 -------------------------------------------------------->
 						<div class="row no-gutters mb-2">
@@ -251,7 +251,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<!----- link icon ----->
 								<div class="card mx-auto" style="height:120px;width:120px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
             	
-            	        background-image:url(https://64.media.tumblr.com/d2b9ebb7177bffc8cd6b5716ea1b47f2/1d5d9363b08e4751-a0/s400x600/e73cdec1d1c3711d8d890f2db32ac9e591216173.jpg);
+            	        background-image:url(ICON_HERE);
             	
             	"></div>
 							</div>
@@ -263,7 +263,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<div class="card w-100 rounded-0 border-0 px-2 py-1" style="height:100px;overflow:auto;">Info about their relationship.</div>
 							</div>
 						</div>
-						<!-------------------------------------------------------
+<!-------------------------------------------------------
                         link 1
 -------------------------------------------------------->
 						<div class="row no-gutters">
@@ -272,7 +272,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<!----- link icon ----->
 								<div class="card mx-auto" style="height:120px;width:120px;z-index:5; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-size:cover;
             	
-            	        background-image:url(https://64.media.tumblr.com/446c3a165647608bfe7612b96a748d78/f494c0075c940297-74/s640x960/b5c13dc76b2f15b89ef3b7f962a6037a9d442ba3.jpg);
+            	        background-image:url(ICON_HERE);
             	
             	"></div>
 							</div>
@@ -286,7 +286,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 						</div>
 						<!--- end links --->
 					</div>
-					<!-------------------------------------------------------
+<!-------------------------------------------------------
                         trivia
 -------------------------------------------------------->
 					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#four" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
@@ -319,7 +319,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 						</ul>
 						<p class="text-justify">A paragraph of trivia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In faucibus sem urna. Sed fermentum enim id augue tristique consectetur. Cras sagittis est in erat suscipit tincidunt. Maecenas vel odio velit. Pellentesque pellentesque nulla ac felis pretium molestie. Phasellus velit nisl, ornare quis mauris dictum, molestie commodo quam. Etiam sed nibh ac leo condimentum sollicitudin eu a dolor. Sed eu mattis sapien. Nullam facilisis augue magna, eget venenatis risus feugiat at. Nulla dapibus magna vel nulla volutpat aliquam. Nunc id neque ex.</p>
 					</div>
-					<!-------------------------------------------------------
+<!-------------------------------------------------------
                         misc
 -------------------------------------------------------->
 					<a class="btn btn-default btn-block rounded-0 text-uppercase text-muted p-1 mb-2" role="tab" id="heading1" data-toggle="collapse" data-parent="#accordion" href="#five" aria-expanded="true" aria-controls="accordion1" style="border-color:#d2ae5a;background:transparent;letter-spacing:3px;border-width:0 0 1px 0;">
@@ -338,7 +338,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 												<iframe style="opacity:.0001;position:absolute;left:0;right:0;top:0;bottom:0;" class="h-100 w-100"
                                   src="
                                   
-                                  https://www.youtube.com/embed/8cNVm6yiiwY
+                                  https://www.youtube.com/embed/YOUTUBE_ID
                                   
                                   " frameborder="0"></iframe>
 												<i class="fas fa-play fa-fw" style="z-index:-1;position:absolute;left:0;top:0;font-size:12px;text-align:center;height:100%;width:100%;"></i>
@@ -355,7 +355,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 									<!----- aesthetic image ----->
 									<div class="card d-block rounded-0 border-0" style="height:100px;
         
-                background-image:url('https://images.unsplash.com/photo-1518779737284-161fc061f38a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')
+                background-image:url('AESTHETIC_IMG_HERE')
         
                 ;background-size:cover;"></div>
 								</div>
@@ -363,7 +363,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<div class="col-lg-6 p-1">
 									<div class="card d-block rounded-0 border-0" style="height:100px;
         
-                background-image:url('https://images.unsplash.com/photo-1558723223-0f8c63ea0fed?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80')
+                background-image:url('AESTHETIC_IMG_HERE')
         
                 ;background-size:cover;"></div>
 								</div>
@@ -371,7 +371,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<div class="col-lg-6 p-1">
 									<div class="card d-block rounded-0 border-0" style="height:100px;
         
-                background-image:url('https://images.unsplash.com/photo-1509437142917-63dfe86dcbec?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80')
+                background-image:url('AESTHETIC_IMG_HERE')
         
                 ;background-size:cover;"></div>
 								</div>
@@ -379,7 +379,7 @@ Integer elementum, velit ut tristique bibendum, magna nunc porta nunc, eget elem
 								<div class="col-lg-6 p-1">
 									<div class="card d-block rounded-0 border-0" style="height:100px;
         
-                background-image:url('https://images.unsplash.com/photo-1504280539878-538b933c05b7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80')
+                background-image:url('AESTHETIC_IMG_HERE')
         
                 ;background-size:cover;"></div>
 								</div>
