@@ -1,0 +1,124 @@
+
+<!---
+
+    Shibui by BakuCodes
+
+ use ctrl f to replace these:
+
+    accent: #db7f8c
+    border-color: #333
+    font-size: 12px
+
+
+--->
+<div class="container p-0 mx-auto my-lg-5" style="max-width:500px;font-size:12px;">
+    
+
+    
+    <div class="card rounded-0 p-2 text-uppercase  display-4" style="border-color:#444;border-width:0px 0px 1px 1px;letter-spacing:2px;font-size:18pt;background:transparent; ">
+<!---------- name -------------> 
+        渋い
+        
+    </div>
+    
+<!---------- image ------------->
+    <div class="card rounded-0 border-0 my-2" style="height:180px;background:url(
+    
+                https://64.media.tumblr.com/3ee0e43bd2ee5beb3747b0fc2bc2f185/107bc687f161da16-84/s640x960/1a014230591b54695bbdb08f71d271cb54759f8c.gifv
+    
+    );background-size:cover;background-position:center;">
+        
+        
+        
+    </div>
+    
+    <div class="row no-gutters">
+        <div class="col-auto p-1">
+         
+        <!----- name -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-user fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">name</span>
+            </div>
+            
+        <!----- age -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-birthday-cake fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">00/00/0000</span>
+            </div>
+            
+        <!----- pronouns / gender -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-venus-mars fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">pro/nou/ns</span>
+            </div>
+            
+        <!----- location -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-globe-asia fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">location</span>
+            </div>
+            
+        <!----- song -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-music fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">song name</span>
+            </div>
+            
+<!---------- second stats ------------->
+        <div class="card border-0 my-1 hidden-md-down" style="background:#444;height:1px;"></div>
+            
+        <!----- commissions status -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-pencil fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">comms closed</span>
+            </div>
+            
+         <!----- requests status -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-book fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">requests closed</span>
+            </div>
+            
+         <!----- rp status -----> 
+            <div class="d-flex">
+                <span class="p-1"><i class="fal fa-comment fa-fw" style="color:#db7f8c;"></i></span>
+                <span class="p-1 text-right">rp closed</span>
+            </div>
+            
+        
+        <!--- end stats ---->
+            
+        </div>
+        
+        
+        
+        <div class="col-lg-auto p-1 hidden-md-down">
+            
+            <div class="card h-100 border-0" style="width:1px;background:#444;"></div>
+            
+        </div>
+        
+        <div class="col">
+<!---------- your info section ----------->
+            <div class="card rounded-0 p-2 border-0 text-justify h-100" style="background:transparent;">
+            
+            <p>
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam commodo leo sem, non luctus lectus porta quis. Vestibulum finibus commodo magna. Ut eget enim a tortor suscipit aliquet. Pellentesque vel laoreet odio, eu tempor tortor. Donec interdum, nunc quis facilisis fermentum, dui tortor maximus orci, ac ultrices massa nisl vitae tortor. Phasellus pellentesque sit amet mi quis egestas. Pellentesque nibh tortor, ultricies vitae tempus eget, pretium non massa. Mauris convallis turpis elit, ac hendrerit odio rutrum nec. Aenean sit amet laoreet lorem. Suspendisse sollicitudin, mi nec vulputate laoreet, quam tortor tempus ipsum, nec lobortis lectus nulla nec leo. Vestibulum vestibulum quam nibh, id dictum quam hendrerit vitae. Nulla dignissim, tellus eu iaculis suscipit, sapien sapien faucibus ligula, ac tristique mi dolor nec lacus. Integer accumsan sit amet libero ac ultrices. Vestibulum ullamcorper placerat lorem vitae cursus. Fusce non imperdiet erat. Integer sed lacus ut diam luctus mollis at et enim.
+            </p>
+            </div>
+        </div>
+        
+        
+    </div>
+    
+    
+    <div class="card rounded-0 p-2 text-lowercase mt-2 text-right" style="border-width:1px 1px 0 0;letter-spacing:2px;border-color:#444;background:transparent;">
+
+<!--- credit --->
+    <div class="text-right">
+        <a href=""><i class="fal fa-code fa-fw" style="color:#db7f8c;"></i></a>
+    </div>
+    </div>
+    
+</div>
