@@ -65,7 +65,7 @@
                 <span class="p-1 text-right">song name</span>
             </div>
             
-<!---------- second stats ------------->
+<!---------- second stats  //// delete to end stats if you want to use this for characters ------------->
         <div class="card border-0 my-1 hidden-md-down" style="background:#444;height:1px;"></div>
             
         <!----- commissions status -----> 
