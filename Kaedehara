@@ -1,0 +1,101 @@
+<!----------------------------------------------------
+
+                Kaedehara by BakuCodes
+        Created for @Togo's coding challenge.
+        
+                accent: #9b3c3f
+
+----------------------------------------------------->
+
+<div class="container card bg-faded border-0 p-0 mx-auto mt-lg-5" style="max-width:450px;border-radius:15px;box-shadow: 0px 0px 15px 4px #222;">
+    <div class="card border-0" style="
+    background:#9b3c3f;
+    
+    background-image:url(https://64.media.tumblr.com/e6820ed2da248ea8b3382110e1e6651a/0cdccd6ac7bbd5d7-b3/s1280x1920/b7403375b8377db3d98647a2c3022d207434e657.jpg);
+    background-size:cover;
+    background-position:center;
+    border-radius:15px 15px 0 0; height:110px;z-index:1;
+    
+    /*--- remove this to remove fade + greyscale ---*/
+    opacity:0.5;
+    filter:grayscale(50%);"></div>
+    
+    <div class="row no-gutters py-2 mb-md-0" style="z-index:9;">
+    <div class="col-sm-4 push-sm-8 p-2 text-center" style="margin-top:-50px;">
+    	<!------- icon ------>
+    	<img src="https://64.media.tumblr.com/6b75f6e9e5d8cc958b3edb0020d4401e/0cdccd6ac7bbd5d7-b7/s400x600/cb4521f247c2f02db2072c47965279dc6b90e299.jpg" class="img-thumbnail bg-faded p-2 border-0" style="border-radius:15px;">
+    	
+    <div class="card p-1 small border-0 mb-md-0 text-left" style="letter-spacing:1px;">
+    
+        <div class="row no-gutters">
+    <!---- name ---->
+        <div class="col-5 p-1 text-uppercase">Name</div>
+        <div class="col-7 p-1">Kaedehara</div>
+        
+    <!---- age ---->
+        <div class="col-5 p-1 text-uppercase">PRN.</div>
+        <div class="col-7 p-1">he/him</div>
+        
+    <!---- age ---->
+        <div class="col-5 p-1 text-uppercase">LVL.</div>
+        <div class="col-7 p-1">100</div>
+    <!---- hp ---->
+        <div class="col-5 p-1 text-uppercase">HP:</div>
+        <div class="col-7 p-1">
+              <div class="progress" style="height:6px; margin-top:6px;">
+                 <div class="progress-bar" style="
+                 
+                            width:50%;
+                 
+                 background:#9b3c3f;"></div>
+              </div>
+           </div>
+    <!---- exp ---->
+           <div class="col-5 p-1">EXP:</div>
+           <div class="col-7 p-1">
+              <div class="progress" style="height:6px; margin-top:6px;">
+                 <div class="progress-bar" style="
+                 
+                            width:50%;
+                 
+                 background:#9b3c3f;"></div>
+              </div>
+           </div>
+        </div>
+        </div>   
+    	    
+    	   <div class="row no-gutters">
+    	   <div class="col-6 p-1">
+    	    <!---- bg color ---->
+             <div class="card border-0 mt-2 mb-md-0" style=" background-color:#9b3c3f;">
+    <!-------- artist credit ----------->
+            <a class="h-100 btn btn-outline-secondary btn-block border-0 p-1 text-white text-uppercase" style="font-size:8px;mb-0letter-spacing:3px;" href="ARTIST_LINK">Artist</a></div>
+            </div>
+            
+    	    <div class="col-6 p-1">
+    	    <!---- bg color ---->
+             <div class="card border-0 mt-2 mb-md-0" style=" background-color:#9b3c3f;">
+    <!------- coding credit / please dont delete ------->
+            <a class="h-100 btn btn-outline-secondary btn-block border-0 p-1 text-white text-uppercase" style="font-size:8px;mb-0letter-spacing:3px;" href="https://toyhou.se/12059471.f2u-kaedehara">Code</a></div>
+            </div>
+    	    
+    </div></div>
+    
+    
+    <div class="col-sm-8 pull-sm-4 p-2" style="margin-top:-40px;">
+    <!---- title ----->
+            <h1 class="card display-4 w-100 p-2 m-0 border-0" style="font-size:18pt;border-radius:15px 15px 0 0;background:#9b3c3f;letter-spacing:2px;">楓原万葉</h1>
+            
+    
+            
+    <div class="card p-2 border-0 pb-4" style="border-radius:0 0 15px 15px;height:242px;overflow-x:auto;overflow-x:hidden;font-size:12px;">
+<!------------ STORY -------------->
+    <!----- leaves - delete to other note to remove these ----->
+        <i class="fab fa-canadian-maple-leaf" style="margin-top:2px;color:#9b3c3f;opacity:0.2;z-index:1;position:absolute;left:0;font-size:140px;transform: rotate(16deg);"></i>
+        
+        <i class="fab fa-canadian-maple-leaf" style="margin-top:90px;color:#9b3c3f;opacity:0.3;z-index:1;position:absolute;right:0;bottom:0;font-size:70px;transform: rotate(340deg);"></i>
+    <!----- delete to this note to remove leaves --------->
+    
+        <p>The Crux, an armed fleet from divyue, spends much of the year on the high seas, and its sailors are quite used to the vagaries of divfe in other nations. So they were more curious than surprised when an outlander began serving as a sailor on their flagship, the Alcor.</p>
+        <p>The sailor in question was picked up when the Alcor docked at the Inazuman port of Ritou.</p>
+        <p>Beidou had made friends with this young man, and when he came on board, she told her crew, "This guy's gonna be staying with us for a while. Take care of him, now."</p></div>
