@@ -64,17 +64,17 @@
         </div>
         </div>   
     	    
-    	   <div class="row no-gutters">
+    	   <div class="row no-gutters pb-lg-0 pb-2">
     	   <div class="col-6 p-1">
     	    <!---- bg color ---->
-             <div class="card border-0 mt-2 mb-md-0" style=" background-color:#9b3c3f;">
+             <div class="card border-0 mt-2 mb-md-0 mb-4" style=" background-color:#9b3c3f;">
     <!-------- artist credit ----------->
             <a class="h-100 btn btn-outline-secondary btn-block border-0 p-1 text-white text-uppercase" style="font-size:8px;mb-0letter-spacing:3px;" href="ARTIST_LINK">Artist</a></div>
             </div>
             
     	    <div class="col-6 p-1">
     	    <!---- bg color ---->
-             <div class="card border-0 mt-2 mb-md-0" style=" background-color:#9b3c3f;">
+             <div class="card border-0 mt-2 mb-md-0 mb-4" style=" background-color:#9b3c3f;">
     <!------- coding credit / please dont delete ------->
             <a class="h-100 btn btn-outline-secondary btn-block border-0 p-1 text-white text-uppercase" style="font-size:8px;mb-0letter-spacing:3px;" href="https://toyhou.se/12059471.f2u-kaedehara">Code</a></div>
             </div>
