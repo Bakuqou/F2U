@@ -1,0 +1,164 @@
+<!-----------
+
+put ur paws up
+original artwork: https://twitter.com/kapebeansies/status/1438269543093211141?s=20
+
+reference theme: https://xue-boro.tumblr.com
+no profit should be made directly from this code,
+as the original concept is not mine. thank you!
+
+accent color: #b1d1e6
+
+------------>
+<div class="card border-0 mt-2 hidden-md-down" style="height:200px;background:transparent;"></div>
+<div class="container p-0 mt-3 mt-md-0" style="max-width:600px;">
+    <!--- top bar --->
+        <div class="card p-0 rounded-0 text-muted text-lowercase">
+
+
+    <!----- row ----->
+        <div class="row no-gutters">
+            <div class="col-lg-12">
+                <!--- top bar --->
+                <div class="card p-2 rounded-0 small text-muted text-lowercase" style="letter-spacing:2px;border-width:0 0 1px 0;">
+                <div class="row no-gutters">
+                    <div class="col-auto px-1">
+                    <!--- credit - please don't remove --->
+                        <a href="https://toyhou.se/13429841" class="text-muted"><i class="fal fa-code fa-fw mt-2"></i></a>
+                    </div>
+                    <div class="col px-1">
+                <!--- link --->
+                        <div class="card px-2 py-1 bg-faded" style="border-radius:15px;">
+                            
+                            toyhou.se/username
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="col-auto px-1"><i class="fal fa-window-minimize fa-fw mt-2"></i>
+                    <i class="fal fa-window-restore fa-fw "></i>
+                    <i class="fal fa-times fa-fw mt-2" style="font-size:11pt;"></i></div>
+                </div>
+                </div>
+            </div>
+            
+            
+            <div class="col-lg-4 hidden-md-down">
+                <!--- left box --->
+                <div class="card p-3 rounded-0 small" style="letter-spacing:2px;border-width:0 1px 0 0;">
+                <!---- big icon // use a square image ----->
+                    <div class="card rounded-0 border-0" style="background-image:url('https://pbs.twimg.com/media/E_XChrMWYAAfrUQ?format=jpg&name=large');background-size:cover;height:170px;width:170px;"></div>
+                
+                </div>
+                
+                <!--- left box --->
+                <div class="card p-2 rounded-0 small text-muted text-justify" style="letter-spacing:1px;border-width:1px 1px 0 0;">
+                    
+                    <p><b>bold</b> <u>underline</u> <a href="#" style="color:#b1d1e6;">link</a> <s>strike</s> <i>italic</i>
+                    <br>
+                    Commissions: closed<br>
+                    requests: closed<br>
+                    hotel: trivago</p>
+                
+                </div>
+                
+                <!--- left box --->
+                <div class="card p-2 rounded-0 small text-muted text-justify" style="letter-spacing:1px;border-width:1px 1px 0 0;">
+                 <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <i class="fas fa-play fa-fw"></i>
+                    <!-----
+                     music player 
+                     how to use: https://toyhou.se/8682081.all-music-players-wip/8682087
+                    ----->
+                    <iframe src="https://www.youtube.com/embed/ID_HERE?controls=0" class="w-100" frameborder="0" style="height:30px; position:absolute; bottom:1px; left:0; opacity:0">
+                    </iframe>
+                    </div>
+                    <div class="col p-1">
+                        <div class="card bg-faded px-2 py-1 border-0 small text-center" style="border-radius:15px;letter-spacing:1px;">
+                            i don't know you anymore</div>
+                    </div>
+                 </div>
+                </div>
+            </div>
+            
+            <div class="col-lg-8">
+                <!--- right box --->
+                <div class="card p-2 rounded-0 small text-muted text-lowercase border-0" style="letter-spacing:2px;">
+                    
+                <!---- tags card ----->
+                    <div class="card bg-faded rounded-0 border-0 p-3 m-1">
+                    <!----- rows ------>
+                        <div class="row no-gutters">
+                            <div class="col-3 p-1">
+                        <!---- mini icon ---->
+                                <img src="https://cdn.discordapp.com/attachments/901458394634915852/906944957011611678/unknown.png" class="img-thumbnail p-2 rounded-0">
+                            </div>
+                            
+                            <div class="col-9 px-1 py-2">
+                                <h3>katsup</h3>
+                                <!--- pronouns ----->
+                                <span class="badge font-weight-normal" style="background-color:#b1d1e6;letter-spacing:2px;font-size:8pt;">he/him</span>
+                                <!--- pronouns ----->
+                                <span class="badge font-weight-normal" style="background-color:#b1d1e6;letter-spacing:2px;font-size:8pt;">they/them</span>
+
+                            <!--- soc. media --->
+                                <div class="mt-2">
+                                    <!--twitter-->
+                                    <a href="LINK" class="text-muted"><i class="fab fa-twitter"></i></a>
+                                    <!--tumblr-->
+                                    <a href="LINK" class="text-muted"><i class="fab fa-tumblr"></i></a>
+                                    <!--instagram-->
+                                    <a href="LINK" class="text-muted"><i class="fab fa-instagram"></i></a>
+                                    <!--furaffinity-->
+                                    <a href="LINK" class="text-muted"><i class="fas fa-paw"></i></a>
+                                    <!--kofi-->
+                                    <a href="LINK" class="text-muted"><i class="fas fa-coffee"></i></a>
+                                    <!--twitch-->
+                                    <a href="LINK" class="text-muted"><i class="fab fa-twitch"></i></a>
+                            <!--- add more above this line --->
+                                </div>
+                                
+                            </div>
+                        </div>
+                        
+                    </div>
+                
+                <!------- body ------------>
+                        <div class="row no-gutters">
+                        <!--- body text --->
+                            <div class="col-lg-6 p-1 text-justify" style="overflow:auto;max-height:190px;letter-spacing:0">
+                            
+                            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque. </p>
+                            
+                            </div>
+                        <!--- content --->
+                            <div class="col-lg-6 p-1">
+                                
+                                <div class="card bg-faded rounded-0 border-0 p-3">
+                                <!--- genshin id --->
+                                    <span>1234567890</span>
+                                    <span class="small text-uppercase mb-2" style="color:#b1d1e6;letter-spacing:1px;">Genshin</span>
+                                
+                                <!--- genshin id --->
+                                    <span>1234 5678 9100</span>
+                                    <span class="small text-uppercase mb-2" style="color:#b1d1e6;letter-spacing:1px;">Pokemon</span>
+                                    
+                                <!--- genshin id --->
+                                    <span>SW 1234 5678 9100</span>
+                                    <span class="small text-uppercase mb-2" style="color:#b1d1e6;letter-spacing:1px;">Nintendo</span>
+                                    
+                                <!--- genshin id --->
+                                    <span>1234567890</span>
+                                    <span class="small text-uppercase" style="color:#b1d1e6;letter-spacing:1px;">Cool math games</span>
+                                </div>
+                                
+                            </div>
+                        </div>
+                
+                </div>
+            </div>
+        </div>
+    
+</div>
+</div>
