@@ -10,7 +10,7 @@ as the original concept is not mine. thank you!
 accent color: #b1d1e6
 
 ------------>
-<div class="card border-0 mt-2 hidden-md-down" style="height:200px;background:transparent;"></div>
+<div class="card border-0 mt-2 hidden-md-down" style="height:80px;background:transparent;"></div>
 <div class="container p-0 mt-3 mt-md-0" style="max-width:600px;">
     <!--- top bar --->
         <div class="card p-0 rounded-0 text-muted text-lowercase">
