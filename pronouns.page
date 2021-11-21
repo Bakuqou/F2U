@@ -1,0 +1,208 @@
+<!------------------
+
+    as requested, a 
+    pronouns.page code for toyhouse !
+    
+    no profit should be made off of 
+    this codeas the entire concept
+    belongs to the “Neutral Language Council” collective
+    
+    character used: Xie Lian from Heaven Officials Blessing
+
+------------------->
+
+<div class="container p-0">
+   <div class="card mx-auto border-bottom-0 border-0" style="border-radius:10px 10px 0 0;max-width:500px;height:150px;background-image:url(https://64.media.tumblr.com/af9bfe8d34776a6518cc9084887ffe19/8ae7e253aec88025-56/s1280x1920/5a7bf58ba502894e9efef9093c5aff62e29bc421.jpg);background-size:cover;background-position:center;">
+       
+   </div> 
+   
+   <div class="card px-3 mx-auto bg-faded border-0" style="border-radius:0 0 10px 10px;max-width:500px;">
+    <div class="row no-gutters">
+        <div class="col-auto p-1">
+            <!--- icon img ---->
+            <img class="img-thumbnail p-2 rounded-circle border-0 bg-faded" src="https://64.media.tumblr.com/3bca06235b896a6d4f217bfb5499a331/25109057037a12e6-53/s640x960/4b2ea036f1c0ce7a045e1f35343ad122e52b4794.jpg" style="max-width:140px;margin-top:-60px;">
+        </div>
+        
+        <div class="col p-1">
+        <!--- text info --->
+           <h4 class="px-2 m-0" style="letter-spacing:2px;">@dianxia</h4>
+           <i class="px-2 text-lowercase text-muted small">—— A small quote, maybe?</i>
+           <hr class="m-0 border-0">
+           
+           <div class="row no-gutters text-muted" style="letter-spacing:1px;">
+            <!----------------------------
+            
+                flags from here:
+                https://www.deviantart.com/tr-ee/gallery/76485607/f2u-pride-pixels
+            
+            ----------------------------->
+            <!---->
+            <div class="col-auto p-1">
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78c0aedd-40cd-49a4-b45f-9b4be1f5b6b4/def5kko-b7005d19-ca21-4499-bd92-929fa24beb94.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4YzBhZWRkLTQwY2QtNDlhNC1iNDVmLTliNGJlMWY1YjZiNFwvZGVmNWtrby1iNzAwNWQxOS1jYTIxLTQ0OTktYmQ5Mi05MjlmYTI0YmViOTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LjAnn0q1j7K2g3_jXMhN9MsbitTCwh5Ir0mEOqNWeas" style="width:20px;"> <i class="small">trans</i>
+            </div>
+               
+            <!---->
+            <div class="col-auto p-1">
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78c0aedd-40cd-49a4-b45f-9b4be1f5b6b4/def5iuj-f4435fcf-c071-4762-82f8-43ae09e3b769.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4YzBhZWRkLTQwY2QtNDlhNC1iNDVmLTliNGJlMWY1YjZiNFwvZGVmNWl1ai1mNDQzNWZjZi1jMDcxLTQ3NjItODJmOC00M2FlMDllM2I3NjkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.VUqq0rh8pzP3Gu8PoJcJ6hMHjgMAxjjv33XiNJVjiaM" style="width:20px;"> <i class="small">demi</i>
+            </div>
+            
+            <!---->
+            <div class="col-auto p-1">
+                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/78c0aedd-40cd-49a4-b45f-9b4be1f5b6b4/deg5kbh-9446030d-8536-4c78-a720-865951095bda.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzc4YzBhZWRkLTQwY2QtNDlhNC1iNDVmLTliNGJlMWY1YjZiNFwvZGVnNWtiaC05NDQ2MDMwZC04NTM2LTRjNzgtYTcyMC04NjU5NTEwOTViZGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EyPW5upY8sqWR2djkqae_c3OQxL7flTQ6sif7JkNrvA" style="width:20px;"> <i class="small">mlm</i>
+            </div>
+            
+            
+           </div>
+           
+           
+           
+           
+        </div>
+    </div>
+    
+    <div class="col-12 px-2">
+        <!---- words ---->
+            <h4 class="display-4 m-0" style="font-size:20px;">Info</h4>
+        </div>
+        <!---- lists ---->
+        <div class="col-12 p-1">
+            <div class="row no-gutters">
+            <!--- column --->
+                <div class="col-md-8 p-1">
+                    <!---- names ---->
+                    <p class="text-justify px-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.</p>
+                </div>
+                
+                <div class="col-md-4 p-1">
+                <!--- commissions --->
+                    <a href="#" class="btn btn-block p-1 btn-outline-secondary mb-1">Commissions</a>
+                <!--- trades --->
+                    <a href="#" class="btn btn-block p-1 btn-outline-secondary mb-1">Trades</a>
+                <!--- tos --->
+                    <a href="#" class="btn btn-block p-1 btn-outline-secondary mb-1">TOS</a>
+        <!------------------->
+                <div class="d-flex justify-content-between mt-2">
+                <!--- deviantart --->
+                    <a href="#" class="btn p-1 btn-outline-secondary mb-1"><i class="fab fa-deviantart fa-fw"></i></a>
+                <!--- furaffinity --->
+                    <a href="#" class="btn p-1 btn-outline-secondary mb-1"><i class="fas fa-paw fa-fw"></i></a>
+                <!--- twitter --->
+                    <a href="#" class="btn p-1 btn-outline-secondary mb-1"><i class="fab fa-twitter fa-fw"></i></a>
+                <!--- misc --->
+                    <a href="#" class="btn p-1 btn-outline-secondary mb-1"><i class="fas fa-link fa-fw"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!----------------------------------------------------------
+    
+            list section
+            
+            just copy paste each option as you need it and
+            add the info relevant to you.
+            
+            example, copy the 'not okay option' code and use
+            it to fill in the pronouns you don't feel comfortable
+            being addressed with.
+            
+    ---------------------------------------------------------->
+    <div class="row no-gutters">
+        <div class="col-6 p-2">
+            <h4 class="display-4" style="font-size:20px;">Names</h4>
+            <!---- names ---->
+            <ul class="fa-ul">
+              <!---- preference option ---->
+              <li><span class="fa-li"><i class="fas fa-heart tooltipster" title="Preferred"></i></span>Preference</li>
+              
+              <!---- okay option ---->
+              <li><span class="fa-li"><i class="fas fa-thumbs-up tooltipster" title="Okay"></i></span>Okay</li>
+              
+              <!---- friends only option ---->
+              <li><span class="fa-li"><i class="fas fa-users tooltipster" title="Friends Only"></i></span>Friends Only</li>
+              
+              <!---- not okay option ---->
+              <li class="text-muted"><span class="fa-li "><i class="fal fa-thumbs-down tooltipster" title="Not Okay"></i></span>Not Okay</li>
+            </ul>
+            
+        </div>
+        
+        <div class="col-6 p-2">
+            <h4 class="display-4" style="font-size:20px;">Pronouns</h4>
+            <!---- names ---->
+            <ul class="fa-ul">
+              <!---- preference option ---->
+              <li><span class="fa-li"><i class="fas fa-heart tooltipster" title="Preferred"></i></span>Preference</li>
+              
+              <!---- okay option ---->
+              <li><span class="fa-li"><i class="fas fa-thumbs-up tooltipster" title="Okay"></i></span>Okay</li>
+              
+              <!---- friends only option ---->
+              <li><span class="fa-li"><i class="fas fa-users tooltipster" title="Friends Only"></i></span>Friends Only</li>
+              
+              <!---- not okay option ---->
+              <li class="text-muted"><span class="fa-li "><i class="fal fa-thumbs-down tooltipster" title="Not Okay"></i></span>Not Okay</li>
+            </ul>
+            
+        </div>
+        
+        <div class="col-12 px-2">
+        <!---- words ---->
+            <h4 class="display-4 m-0" style="font-size:20px;">Words</h4>
+            <i class="small text-muted">Words you can use to address me.</i>
+        </div>
+        <!---- lists ---->
+        <div class="col-12 p-1">
+            <div class="row no-gutters">
+            <!--- column --->
+                <div class="col-md-4 p-1">
+                    <!---- names ---->
+                    <ul class="fa-ul">
+                      <!---- preference option ---->
+                      <li><span class="fa-li"><i class="fas fa-heart tooltipster" title="Preferred"></i></span>Preference</li>
+                      <!---- okay option ---->
+                      <li><span class="fa-li"><i class="fas fa-thumbs-up tooltipster" title="Okay"></i></span>Okay</li>
+                      <!---- friends only option ---->
+                      <li><span class="fa-li"><i class="fas fa-users tooltipster" title="Friends Only"></i></span>Friends Only</li>
+                      <!---- not okay option ---->
+                      <li class="text-muted"><span class="fa-li "><i class="fal fa-thumbs-down tooltipster" title="Not Okay"></i></span>Not Okay</li>
+                    </ul>
+        </div>
+            <!--- column --->
+                <div class="col-md-4 p-1">
+                    <!---- names ---->
+                    <ul class="fa-ul">
+                      <!---- preference option ---->
+                      <li><span class="fa-li"><i class="fas fa-heart tooltipster" title="Preferred"></i></span>Preference</li>
+                      <!---- okay option ---->
+                      <li><span class="fa-li"><i class="fas fa-thumbs-up tooltipster" title="Okay"></i></span>Okay</li>
+                      <!---- friends only option ---->
+                      <li><span class="fa-li"><i class="fas fa-users tooltipster" title="Friends Only"></i></span>Friends Only</li>
+                      <!---- not okay option ---->
+                      <li class="text-muted"><span class="fa-li "><i class="fal fa-thumbs-down tooltipster" title="Not Okay"></i></span>Not Okay</li>
+                    </ul>
+        </div>
+            <!--- column --->
+                <div class="col-md-4 p-1">
+                    <!---- names ---->
+                    <ul class="fa-ul">
+                      <!---- preference option ---->
+                      <li><span class="fa-li"><i class="fas fa-heart tooltipster" title="Preferred"></i></span>Preference</li>
+                      <!---- okay option ---->
+                      <li><span class="fa-li"><i class="fas fa-thumbs-up tooltipster" title="Okay"></i></span>Okay</li>
+                      <!---- friends only option ---->
+                      <li><span class="fa-li"><i class="fas fa-users tooltipster" title="Friends Only"></i></span>Friends Only</li>
+                      <!---- not okay option ---->
+                      <li class="text-muted"><span class="fa-li "><i class="fal fa-thumbs-down tooltipster" title="Not Okay"></i></span>Not Okay</li>
+                    </ul>
+        </div>
+            </div>
+        </div>
+    </div>
+       
+    
+   </div>
+   <p class="text-center mt-1">
+       <a href="" class="text-muted"><i class="fal fa-code fa-fw"></i></a> 
+       <a href="https://en.pronouns.page/team" class="text-muted"><i class="fal fa-tags fa-fw"></i></a>
+       </p>
+</div>
