@@ -1,0 +1,202 @@
+<!----------------------
+
+
+        arataki
+    accent: #d0304a
+    
+    
+------------------------>
+    <div class="row no-gutters mx-auto mt-lg-5" style="max-width:900px;color:#777;">
+    <!-------->
+        <div class="col-lg-4 col-6 p-1">
+        <!---- top bar ---->
+            <div class="card p-3 d-block rounded-0 text-uppercase small" style="background:#000;color:#fff;border:5px solid #d0304a;border-width:0 0 5px 0;letter-spacing:2px;">
+                <i class="fal fa-user fa-fw" style="font-size:10px;"></i> Info
+            </div>
+            <!---- image ---->
+                <div class="card rounded-0 border-0" style="min-height:180px;background-image:url('https://i.pinimg.com/564x/d4/88/42/d488426ff9cee865b1b2f3e14c6930af.jpg');background-size:cover;background-position:center;"></div>
+        <!---- content ---->
+            <div class="card p-3 d-block rounded-0" style="background:#fff;max-height:300px;overflow:auto;">
+                <!--- name / nickname --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:7px;padding-top:8px;height:30px;width:30px;">
+                            <i class="fal fa-star text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        name
+                    </div>
+                </div>
+                <!--- age --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:6px;padding-top:8px;height:30px;width:30px;">
+                            <i class="fal fa-birthday-cake text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        age
+                    </div>
+                </div>
+                <!--- pronouns --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:7px;padding-top:9px;height:30px;width:30px;">
+                            <i class="fal fa-tag text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        pronouns
+                    </div>
+                </div>
+                <!--- country --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:6px;padding-top:9px;height:30px;width:30px;">
+                            <i class="fal fa-heart text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        sexuality
+                    </div>
+                </div>
+                <!--- location --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:7px;padding-top:8px;height:30px;width:30px;">
+                            <i class="fal fa-globe-asia text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        location
+                    </div>
+                </div>
+                <!--- languages --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:7px;padding-top:8px;height:30px;width:30px;">
+                            <i class="fal fa-comment text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        languages
+                    </div>
+                </div>
+                <!--- theme --->
+                <div class="row no-gutters">
+                    <div class="col-auto p-1">
+                    <!----- icon ---->
+                        <div class="card rounded-circle text-center border-0" style="background:#d0304a;padding-left:5px;padding-top:8px;height:30px;width:30px;">
+                            <i class="fal fa-music text-white fa-fw"></i>
+                        </div>
+                    </div>
+                    <!----- info ---->
+                    <div class="col-auto px-1 py-2">
+                        <a href="URL_HERE" style="color:#d0304a;text-decoration:none;">theme</a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    <!-------->
+        <div class="col-lg-4 col-6 p-1">
+        <!---- top bar ---->
+            <div class="card p-3 d-block rounded-0 text-uppercase small" style="background:#000;color:#fff;border:5px solid #d0304a;border-width:0 0 5px 0;letter-spacing:2px;">
+                <i class="fal fa-shopping-bag fa-fw" style="font-size:10px;"></i> Shop
+            </div>
+        <!---- commissions content // change to characters if you want ---->
+            <div class="card px-3 py-4 d-block rounded-0" style="background:#fff;max-height:480px;overflow:auto;">
+            
+        <!--- examples --->
+            <div class="card mx-auto mt-1 rounded-0" style="height:100px; background-size:cover; background-position:center; background-image:url('https://i.pinimg.com/564x/09/72/fd/0972fda03b2a28650a3064e3ad1f4bcc.jpg');border:1px solid #d0304a;">
+            <a class="h-100 btn btn-outline-secondary font-weight-bold btn-block align-items-end rounded-0" href="COMM_LINK" style="font-size:12pt;border:1px solid #d0304a;color:#fff;letter-spacing:2px;">Headshots</a>
+            </div>
+        
+        <!--- examples ---> 
+            <div class="card mx-auto rounded-0 mt-2" style="height:100px; background-size:cover; background-position:center; background-image:url('https://i.pinimg.com/564x/09/72/fd/0972fda03b2a28650a3064e3ad1f4bcc.jpg');border:1px solid #d0304a;">
+            <a class="h-100 btn btn-outline-secondary font-weight-bold btn-block align-items-end rounded-0" href="COMM_LINK" style="font-size:12pt;border:1px solid #d0304a;color:#fff;letter-spacing:2px;">Busts</a>
+            </div>
+            
+        <!--- examples ---> 
+            <div class="card mx-auto rounded-0 mt-2" style="height:100px; background-size:cover; background-position:center; background-image:url('https://i.pinimg.com/564x/09/72/fd/0972fda03b2a28650a3064e3ad1f4bcc.jpg');border:1px solid #d0304a;">
+            <a class="h-100 btn btn-outline-secondary font-weight-bold btn-block align-items-end rounded-0" href="COMM_LINK" style="font-size:12pt;border:1px solid #d0304a;color:#fff;letter-spacing:2px;">Full Bodies</a>
+            </div>
+        
+        <!--- examples ---> 
+            <div class="card mx-auto rounded-0 mt-2" style="height:100px; background-size:cover; background-position:center; background-image:url('https://i.pinimg.com/564x/09/72/fd/0972fda03b2a28650a3064e3ad1f4bcc.jpg');border:1px solid #d0304a;">
+            <a class="h-100 btn btn-outline-secondary font-weight-bold btn-block align-items-end rounded-0" href="COMM_LINK" style="font-size:12pt;border:1px solid #d0304a;color:#fff;letter-spacing:2px;">Customs</a>
+            </div>
+                
+        
+            </div>
+        </div>
+    <!-------->
+        <div class="col-lg-4 p-1">
+        <!---- top bar ---->
+            <div class="card p-3 d-block rounded-0 text-uppercase small" style="background:#000;color:#fff;border:5px solid #d0304a;border-width:0 0 5px 0;letter-spacing:2px;">
+                <i class="fal fa-link fa-fw" style="font-size:10px;"></i> More
+            </div>
+        <!---- content ---->
+            <div class="card p-3 d-block rounded-0" style="background:#fff;max-height:480px;overflow:auto;">
+                <b class="text-uppercase" style="color:#d0304a;">Queue</b>
+                <div class="card rounded-0 border-0" style="background:transparent;max-height:120px;overflow:auto;">
+                    <ul class="list-unstyled small ml-3 my-1">
+                    <li>Bust - @/username</li>
+                    <li>Headshot - @/username</li>
+                    <li>2 x Busts - @/username</li>
+                    <li>Bust - @/username</li>
+                </ul>
+                </div>
+                <div class="card rounded-0 border-0 my-2" style="background:#000;height:1px;opacity:0.1;"></div>
+                <b class="text-uppercase" style="color:#d0304a;">Wait List</b>
+                <div class="card rounded-0 border-0" style="background:transparent;max-height:120px;overflow:auto;">
+                    <ul class="list-unstyled small ml-3 my-1">
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                </ul>
+                </div>
+                <div class="card rounded-0 border-0 my-2" style="background:#000;height:1px;opacity:0.1;"></div>
+                <b class="text-uppercase" style="color:#d0304a;">TOS</b>
+                <div class="card rounded-0 border-0" style="background:transparent;max-height:120px;overflow:auto;">
+                    <ul class="list-unstyled small ml-3 my-1">
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                    <li>Lorem ipsum dolor sit amet.</li>
+                </ul>
+                </div>
+                <div class="card rounded-0 border-0 my-2" style="background:#000;height:1px;opacity:0.1;"></div>
+                <!---- soc media ---->
+                <ul class="fa-ul p-0 my-0" style="font-size:9pt;">
+                <!--- link --->
+                  <li class="mb-1"><span class="fa-li"><i class="fab fa-deviantart mr-2"></i></span>
+                        <a href="FA_LINK" class="text-muted" style="text-decoration:none;">da name</a></li>
+                <!--- link --->
+                  <li class="mb-1"><span class="fa-li"><i class="fab fa-twitter  mr-2"></i></span>
+                        <a href="TWITTER_LINK" class="text-muted" style="text-decoration:none;">tw name</a></li>
+                <!--- link --->
+                  <li class="mb-1"><span class="fa-li"><i class="fas fa-paw  mr-2"></i></span>
+                        <a href="FA_LINK" class="text-muted" style="text-decoration:none;">fa name</a></li>
+                <!--- link --->
+                  <li class="mb-1"><span class="fa-li"><i class="fab fa-discord  mr-2"></i></span>discord#0000</li>
+                  <!--- credit / dont remove pls --->
+                  <li><span class="fa-li"><i class="fal fa-code  mr-2"></i></span><a href="https://toyhou.se/13972482" class="text-muted" style="text-decoration:none;">bakucodes</a></li>
+                </ul>
+        <!---- soc media ---->
+            </div>
+        </div>
+    </div>
