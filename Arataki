@@ -8,7 +8,7 @@
 ------------------------>
     <div class="row no-gutters mx-auto mt-lg-5" style="max-width:900px;color:#777;">
     <!-------->
-        <div class="col-lg-4 col-6 p-1">
+        <div class="col-lg-4 p-1">
         <!---- top bar ---->
             <div class="card p-3 d-block rounded-0 text-uppercase small" style="background:#000;color:#fff;border:5px solid #d0304a;border-width:0 0 5px 0;letter-spacing:2px;">
                 <i class="fal fa-user fa-fw" style="font-size:10px;"></i> Info
@@ -111,7 +111,7 @@
             </div>
         </div>
     <!-------->
-        <div class="col-lg-4 col-6 p-1">
+        <div class="col-lg-4 p-1">
         <!---- top bar ---->
             <div class="card p-3 d-block rounded-0 text-uppercase small" style="background:#000;color:#fff;border:5px solid #d0304a;border-width:0 0 5px 0;letter-spacing:2px;">
                 <i class="fal fa-shopping-bag fa-fw" style="font-size:10px;"></i> Shop
