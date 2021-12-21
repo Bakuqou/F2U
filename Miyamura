@@ -1,0 +1,78 @@
+<!-------------------------------------
+
+        miyamura by bakucodes
+        accent: #71a58a
+
+-------------------------------------->
+<div class="container p-0 mt-lg-5 mx-auto" style="max-width:300px;">
+<div class="card py-3 rounded-0" style="">
+    <div class="card border-0" style="margin:0 -5px;">
+        <div class="row no-gutters">
+    <!--- img box --->
+            <div class="col-auto p-1">
+            <!--- use a square image for best results --->
+                <img src="https://media.discordapp.net/attachments/909233052251729981/922900123447607396/e958d1da50be90509d015cf67a5ce4b1.jpg" class="rounded-0 p-0 hidden-md-down img-thumbnail" style="max-width:100px;margin-left:-50px;">
+            </div>
+    <!--- content box --->
+            <div class="col p-1">
+                <div class="card border-0 rounded-0" style="margin:-7px 0;height:113px;overflow:auto;">
+                    <div class="tab-content">
+                <!----- tab 1 ----->
+                      <div class="tab-pane fade active show" id="itto">
+                          <div class="p-2">
+                              <span class="" style="font-variant:small-caps;color:#71a58a;">username</span>
+                              <p class="small text-muted mb-3">he/him • minor • student • japan</p>
+                              <p class="small mb-2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+                          </div>
+                      </div>
+                
+                <!----- tab 2 ----->
+                      <div class="tab-pane fade" id="zhongli">
+                        <div class="p-2">
+                            <ul class="fa-ul ml-3 mb-0 mt-2 small">
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fal fa-tv-retro fa-fw" style="color:#71a58a;"></i></span> watching</li>
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fal fa-music fa-fw" style="color:#71a58a;"></i></span> listening to</li>
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fal fa-bookmark fa-fw" style="color:#71a58a;"></i></span>reading</li>
+                        <!----->
+                              <li><span class="fa-li"><i class="fal fa-heart fa-fw" style="color:#71a58a;"></i></span>feeling</li>
+                            </ul>
+                        </div>
+                      </div>
+                
+                <!----- tab 3 ----->
+                      <div class="tab-pane fade" id="gorou">
+                        <div class="p-2">
+                        <ul class="fa-ul ml-3 mb-0 mt-2 small">
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fab fa-twitter fa-fw" style="color:#71a58a;"></i></span> <a href="LINK" class="text-muted" style="text-decoration:none;">twitter</a></li>
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fab fa-deviantart fa-fw" style="color:#71a58a;"></i></span> <a href="LINK" class="text-muted" style="text-decoration:none;">deviantart</a></li>
+                        <!----->
+                              <li class="mb-1"><span class="fa-li"><i class="fas fa-paw fa-fw" style="color:#71a58a;"></i></span><a href="LINK" class="text-muted" style="text-decoration:none;">fur affinity</a></li>
+                        <!----->
+                              <li><span class="fa-li"><i class="fas fa-link fa-fw" style="color:#71a58a;"></i></span><a href="LINK" class="text-muted" style="text-decoration:none;">misc link</a></li>
+                            </ul>
+                        </div>
+                      </div>
+                  </div>
+                </div>
+            </div>
+    <!--- nav box --->
+            <div class="col-1 p-1">
+                <ul class="nav nav-tabs row border-0 mx-2">
+      <li class="mb-1"><a data-toggle="tab" href="#itto" style="text-decoration:none;color:#71a58a;"><i class="fal fa-user fa-fw"></i></a></li>
+      <li class="mb-1"><a data-toggle="tab" href="#zhongli" style="text-decoration:none;color:#71a58a;"><i class="fal fa-star fa-fw"></i></a></li>
+      <li class="mb-1"><a data-toggle="tab" href="#gorou" style="text-decoration:none;color:#71a58a;"><i class="fal fa-at fa-fw"></i></a></li>
+      <li class="mb-1"><a data-toggle="tab" href="https://toyhou.se/13989079" style="text-decoration:none;color:#71a58a;"><i class="fal fa-code fa-fw"></i></a></li>
+      
+    </ul>
+            </div>
+        </div>
+    </div>
+</div>
+    
+</div>
+</div><!--- container end --->
