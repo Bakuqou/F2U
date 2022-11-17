@@ -66,7 +66,7 @@
       <li class="mb-1"><a data-toggle="tab" href="#itto" style="text-decoration:none;color:#71a58a;"><i class="fal fa-user fa-fw"></i></a></li>
       <li class="mb-1"><a data-toggle="tab" href="#zhongli" style="text-decoration:none;color:#71a58a;"><i class="fal fa-star fa-fw"></i></a></li>
       <li class="mb-1"><a data-toggle="tab" href="#gorou" style="text-decoration:none;color:#71a58a;"><i class="fal fa-at fa-fw"></i></a></li>
-      <li class="mb-1"><a data-toggle="tab" href="https://toyhou.se/13989079" style="text-decoration:none;color:#71a58a;"><i class="fal fa-code fa-fw"></i></a></li>
+      <li class="mb-1"><a href="https://toyhou.se/13989079" style="text-decoration:none;color:#71a58a;"><i class="fal fa-code fa-fw"></i></a></li>
       
     </ul>
             </div>
