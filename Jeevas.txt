@@ -1,0 +1,230 @@
+<!-------------------------------------------------------------------------------------------
+   　
+       　JEEVAS BY BAKUCODES
+       　
+         DO NOT
+         › Use WYSIWYG with my codes.
+         › Completely remove the credit.
+         › Claim my work in it's entirety as your own.
+         › Use or upload my content anywhere other than ToyHouse.
+         › Re-upload or redistribute or otherwise profit directly from my work.
+         
+         FEEL FREE TO
+         › Move the credit elsewhere.
+         › Use my work anywhere on your TH.
+         › Frankenstein my codes with others, as long as they allow it.
+         
+         NOTE
+         › If you wish to see what you're editing, please use https://th.circlejourney.net/
+         › If you use WYSIWYG with my code, and it breaks, I won't be fixing it. 
+     
+   -------------------------------------------------------------------------------------------
+     
+         COLOURS
+         
+         texts
+         › text-danger
+         › text-muted
+         
+         backgrounds
+         › bg-faded
+         
+         uses bootstrap colours refer to the docs here:
+         https://getbootstrap.com/docs/4.0/utilities/colors/
+     
+   ------------------------------------------------------------------------------------------->
+
+<div class="container mx-auto p-0" style="max-width:600px;">
+    <div class="row no-gutters d-flex">
+        <!---- content ---->
+        <div class="col-lg-8 order-lg-1 order-2 p-3">
+            
+            
+            <!--- about me --->
+            <div class="row no-gutters">
+                <div class="col-3 pr-2">
+                <!--- lil img --->
+                    <div class="card-0 rounded-0 h-100" style="background:url('https://i.pinimg.com/564x/0f/43/a5/0f43a5a6da067827569d4741d6788f34.jpg') center;background-size:cover;">
+                        
+                    </div>
+                </div>
+                
+            <div class="col">
+                <div class="card-0">
+            <!--- header --->
+                <div class="row no-gutters">
+                    <div class="col-auto pr-2"><h2 class="display-4 font-weight-bold text-danger">
+                        
+                        about 
+                        <span class="text-muted font-italic">!!</span></h2></div>
+                    <div class="col">
+                    <!--- dots --->
+                        <div class="card rounded-0 p-1" style="border-width: 10px 0 0 0 ;border-style:dotted;margin-top:15px"></div>
+                    </div>
+                </div>
+            <!--- text --->
+                <p class="small">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                </p>
+            </div>
+            </div>
+            </div>
+            
+            <!--- fandoms --->
+            <div class="card-0 my-3">
+            <!--- reversed header --->
+                <div class="row no-gutters">
+                    <div class="col">
+                    <!--- dots --->
+                        <div class="card rounded-0 p-1" style="border-width: 10px 0 0 0 ;border-style:dotted;margin-top:15px"></div>
+                    </div>
+                    
+                    <div class="col-auto pl-2"><h2 class="display-4 font-weight-bold text-muted">
+                        
+                        fandoms
+                        <span class="text-danger font-italic">!!</span></h2></div>
+                </div>
+            <!--- text --->
+                <p class="small">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                </p>
+            </div>
+            
+            <!--- dni --->
+            <div class="row no-gutters">
+                <div class="col">
+                <div class="card-0">
+            <!--- header --->
+                <div class="row no-gutters">
+                    <div class="col-auto pr-2"><h2 class="display-4 font-weight-bold text-danger">
+                        
+                        dni
+                        <span class="text-muted font-italic">!!</span></h2></div>
+                    <div class="col">
+                    <!--- dots --->
+                        <div class="card rounded-0 p-1" style="border-width: 10px 0 0 0 ;border-style:dotted;margin-top:15px"></div>
+                    </div>
+                </div>
+            <!--- text --->
+                <p class="small">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros. Duis placerat velit vitae massa sodales, eget mattis nibh pellentesque.
+                </p>
+            </div>
+            </div>
+                <div class="col-3 pl-2">
+                <!--- lil img --->
+                    <div class="card-0 rounded-0 h-100" style="background:url('https://i.pinimg.com/564x/51/aa/8e/51aa8e3972a5e8a61c2b2081149a8349.jpg') center;background-size:cover;">
+                        
+                    </div>
+                </div>
+                
+            </div>
+            
+            <!--- friends // can be charas if you want --->
+            <div class="card-0 my-3">
+            <!--- reversed header --->
+                <div class="row no-gutters">
+                    <div class="col">
+                    <!--- dots --->
+                        <div class="card rounded-0 p-2 " style="border-width: 10px 0 0 0 ;border-style:dotted;margin-top:15px;"></div>
+                    </div>
+                    
+                    <div class="col-auto pl-2"><h2 class="display-4 font-weight-bold text-muted">
+                        
+                        friends
+                        <span class="text-danger font-italic">!!</span></h2></div>
+                </div>
+            <!--- images --->
+                <div class="row no-gutters">
+                <!--- buddy --->
+                    <div class="col-3 p-1">
+                    <!--- img --->
+                        <div style="background:url('https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80') no-repeat center;background-size:cover;height:80px;" class="d-block">
+                    <!--- link --->
+                        <a class="btn btn-outline-danger d-block h-100 faded border-0 rounded-0 faded" href="https://toyhou.se/LINK_HERE"></a>
+                    </div>
+                </div>
+                
+                <!--- buddy --->
+                    <div class="col-3 p-1">
+                    <!--- img --->
+                        <div style="background:url('https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80') no-repeat center;background-size:cover;height:80px;" class="d-block">
+                    <!--- link --->
+                        <a class="btn btn-outline-danger d-block h-100 faded border-0 rounded-0 faded" href="https://toyhou.se/LINK_HERE"></a>
+                    </div>
+                </div>
+                
+                <!--- buddy --->
+                    <div class="col-3 p-1">
+                    <!--- img --->
+                        <div style="background:url('https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80') no-repeat center;background-size:cover;height:80px;" class="d-block">
+                    <!--- link --->
+                        <a class="btn btn-outline-danger d-block h-100 faded border-0 rounded-0 faded" href="https://toyhou.se/LINK_HERE"></a>
+                    </div>
+                </div>
+                
+                <!--- buddy --->
+                    <div class="col-3 p-1">
+                    <!--- img --->
+                        <div style="background:url('https://images.unsplash.com/photo-1541422348463-9bc715520974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80') no-repeat center;background-size:cover;height:80px;" class="d-block">
+                    <!--- link --->
+                        <a class="btn btn-outline-danger d-block h-100 faded border-0 rounded-0 faded" href="https://toyhou.se/LINK_HERE"></a>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+        
+        <!--- sidebar --->
+        <div class="col-lg-4 p-1 order-lg-2">
+            <!----->
+            <div class="sticky-top pt-2">
+            <div class="card border-0 rounded-0 bg-faded p-3">
+                
+                <!--- img // use a square img for best results --->
+                <div class="card-0 mb-1" style="background:url('https://i.pinimg.com/564x/18/3e/ef/183eef7380d50117702f0fd1edf68ffa.jpg') center;height:160px;background-size:cover;"></div>
+                
+                <!--- info --->
+                <h2 class="font-weight-bold display-4 text-danger font-italic text-uppercase mb-0" style="letter-spacing:1px">Mail</h2>
+                
+                <!--- subtitle --->
+                <i class="text-lowercase text-muted small mt-n1">bored out of my mind</i>
+                
+                <!--- name --->
+                <div class="row no-gutters mt-2 small">
+                    <div class="col-auto text-danger">name</div>
+                    <div class="col pl-1 text-muted">content</div>
+                </div>
+                
+                <!--- age --->
+                <div class="row no-gutters small">
+                    <div class="col-auto text-danger">age</div>
+                    <div class="col pl-1 text-muted">00</div>
+                </div>
+                
+                <!--- bday --->
+                <div class="row no-gutters small">
+                    <div class="col-auto text-danger">bday</div>
+                    <div class="col pl-1 text-muted">xx/xx</div>
+                </div>
+                
+                <!--- pronouns --->
+                <div class="row no-gutters small">
+                    <div class="col-auto text-danger">pronouns</div>
+                    <div class="col pl-1 text-muted">xx/xx</div>
+                </div>
+                
+                
+                <!---- soc. media ----->
+                <div class="row no-gutters mt-2 text-lowercase" style="font-variant:small-caps;font-size:13px;">
+                    <div class="col-auto p-1"> <a href="TWITTER" class="text-danger" style="text-decoration:none;">twt</a></div>
+                    <div class="col-auto p-1"> <a href="INSTAGRAM" class="text-danger" style="text-decoration:none;">ig</a></div>
+                    <div class="col-auto p-1"> <a href="DISCORD SERVER" class="text-danger" style="text-decoration:none;">disc</a></div>
+                    <div class="col-auto p-1"> <a href="CARRD" class="text-danger" style="text-decoration:none;">carrd</a></div>
+                    <div class="col-auto p-1"> <a href="https://toyhou.se/BakuCodes" class="text-danger" style="text-decoration:none;">code</a></div>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
