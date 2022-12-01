@@ -221,7 +221,7 @@
                     <div class="col-auto p-1"> <a href="INSTAGRAM" class="text-danger" style="text-decoration:none;">ig</a></div>
                     <div class="col-auto p-1"> <a href="DISCORD SERVER" class="text-danger" style="text-decoration:none;">disc</a></div>
                     <div class="col-auto p-1"> <a href="CARRD" class="text-danger" style="text-decoration:none;">carrd</a></div>
-                    <div class="col-auto p-1"> <a href="https://toyhou.se/BakuCodes" class="text-danger" style="text-decoration:none;">code</a></div>
+                    <div class="col-auto p-1"> <a href="https://toyhou.se/18783778" class="text-danger" style="text-decoration:none;">code</a></div>
                 </div>
             </div>
             </div>
