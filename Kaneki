@@ -1,0 +1,356 @@
+<!-------------------------------------------------------------------------------------------
+   　
+       　KANEKI BY BAKUCODES
+       　
+         DO NOT
+         › Use WYSIWYG with my codes.
+         › Completely remove the credit.
+         › Claim my work in it's entirety as your own.
+         › Use or upload my content anywhere other than ToyHouse.
+         › Re-upload or redistribute or otherwise profit directly from my work.
+         
+         FEEL FREE TO
+         › Move the credit elsewhere.
+         › Use my work anywhere on your TH.
+         › Frankenstein my codes with others, as long as they allow it.
+         
+         NOTE
+         › If you wish to see what you're editing, please use https://th.circlejourney.net/
+         › If you use WYSIWYG with my code, and it breaks, I won't be fixing it. 
+     
+   -------------------------------------------------------------------------------------------
+     
+         COLORS
+         
+         dark grey
+         › #444
+         
+         red
+         › #b32c26
+         
+         light grey
+         › #ddd
+         
+         white
+         › #fff
+         
+         black
+         › #000
+         
+         font
+         › #777
+     
+   ------------------------------------------------------------------------------------------->
+<div class="container card-0 p-0 overflow-hidden mx-auto mt-lg-5" style="max-width:800px;border-radius:10px;color:#777;">
+    <div class="row no-gutters">
+        <div class="col-lg-5">
+            <!--- sidebar --->
+            <div class="card-0 p-5 rounded-0 h-100" style="background:url('https://i.pinimg.com/564x/7f/cb/8a/7fcb8a63ed9fe75263236d10a76fc04b.jpg') center #444;background-size:cover;background-blend-mode:multiply;filter: grayscale(1);min-height:250px;"></div>
+        </div>
+        
+        <div class="col-lg-7">
+        <!--- content --->
+            <div class="card rounded-0 px-3 pt-2 pb-4" style="background:#fff;">
+                <!-- top -->
+                    <!--- title --->
+                    <h1 class="display-4 mb-0 text-uppercase font-weight-bold" style="letter-spacing:5px;color:#000;">
+                    <!--- 1st letter --->
+                    <span style="color:#b32c26;">K</span>aneki</span></h1>
+               
+                <!--- tags --->
+                <div class="d-flex pb-1" style="font-size:12px;">
+                    <div class="" style="font-family:courier"><i class="far fa-hashtag fa-fw mr-n2" style="font-size:10px;color:#b32c26;"></i> tag</div>
+                    <div class="ml-1" style="font-family:courier"><i class="far fa-hashtag fa-fw mr-n2" style="font-size:10px;color:#b32c26;"></i> tag</div>
+                    <div class="ml-1" style="font-family:courier"><i class="far fa-hashtag fa-fw mr-n2" style="font-size:10px;color:#b32c26;"></i> tag</div>
+                    <div class="ml-1" style="font-family:courier"><i class="far fa-hashtag fa-fw mr-n2" style="font-size:10px;color:#b32c26;"></i> tag</div>
+                </div>
+                
+                <!--- content box --->
+                <div class="card-0" style="height:400px;overflow:auto;">
+                    
+                <!--- quote --->
+                <div class="row no-gutters">
+                   <div class="col-auto pr-2">
+                      <!--- icon --->
+                      <div class="card rounded-circle" style="background:url('https://i.pinimg.com/564x/47/bb/85/47bb8518ad3ee4c2181b9fdaa062fca6.jpg') center #ddd;border:5px solid #ddd;background-size:cover;padding:30px;"></div>
+                   </div>
+                   
+                   <div class="col-auto mr-n1 mt-3">
+                       <i class="fa-solid fa-triangle" style="color:#ddd;transform: rotate(30deg);"></i>
+                   </div>
+                   <!--- quote text --->
+                   <div class="col py-lg-0 py-2">
+                      <div class="card-0 p-2 mt-lg-2 align-items-center small text-lowercase font-italic" style="border-radius:15px;background:#ddd;">
+                         If you were to write a story with me in the lead role, it would certainly be... a tragedy.
+                      </div>
+                      <!--- speech bubble triangle --->
+                      
+                   </div>
+                </div>
+                
+                <!---- info + pics ---->
+                <div class="row no-gutters">
+                        <div class="col-lg-8 ">
+                        <!--- name --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-id-card fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1  text-lowercase" style="letter-spacing:.5px;">
+                                kaneki ken
+                            </div>
+                        </div>
+                        
+                        <!--- age or birthday --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-cake fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                xx month
+                            </div>
+                        </div>
+                        
+                        <!--- species --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-dna fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                species
+                            </div>
+                        </div>
+                        
+                        <!--- orientation --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-heart fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                orientation
+                            </div>
+                        </div>
+                        
+                        <!--- relationship status --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-rings-wedding fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                relationship
+                            </div>
+                        </div>
+                        
+                        <!--- zodiac --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-star fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                zodiac
+                            </div>
+                        </div>
+                        
+                        <!--- alignment --->
+                        <div class="row no-gutters mb-n2">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-dice-d20 fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                alignment
+                            </div>
+                        </div>
+                        
+                        <!--- mbti --->
+                        <div class="row no-gutters ">
+                            <div class="col-auto p-1">
+                            <!--- icon --->
+                                <i class="fa-light fa-brain fa-fw" style="color:#b32c26"></i>
+                            </div>
+                            
+                            <div class="col p-1 align-items-center">
+                            <!--- line --->
+                                <div class="card w-100" style="background:#ddd;"></div>
+                            </div>
+                            
+                            <!--- text --->
+                            <div class="col-auto small p-1 text-lowercase " style="letter-spacing:.5px;">
+                                mbti
+                            </div>
+                        </div>
+                        
+                    <!---- personality ----->
+                        <h2 class="text-uppercase ml-1 mt-1 font-weight-bold" style="font-size:12px;letter-spacing:2px;color:#b32c26">Personality</h2>
+                        <div class="card mx-1 mt-n1 mb-lg-0 mb-1 p-2 small" style="border-radius:3px;background:#ddd;height:107px;overflow:auto;">
+                            
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur.
+                            
+                        </div>
+                        
+                        </div>
+                        
+                    <!--- images --->
+                        <div class="col-lg-4">
+                            <div class="row no-gutters">
+                                <div class="col-lg-12 col p-1">
+                                    <!--- img --->
+                                    <div class="card-0 text-center p-5" style="background:url('https://i.pinimg.com/564x/e2/19/9c/e2199c965e64c3710ae20ecb343bd9cc.jpg') #b32c26;background-size:cover;background-blend-mode:multiply;border-radius:7px;"></div>
+                                </div>
+                                
+                                <div class="col-lg-12 col p-1">
+                                    <!--- img --->
+                                    <div class="card-0 text-center p-5" style="background:url('https://i.pinimg.com/564x/94/29/1f/94291f9fdca9af9ba1aefd9b104c8d94.jpg') #444;background-size:cover;background-blend-mode:multiply;border-radius:7px;"></div>
+                                </div>
+                                
+                                <div class="col-lg-12 col p-1">
+                                    <!--- img --->
+                                    <div class="card-0 text-center p-5" style="background:url('https://i.pinimg.com/564x/8c/4f/b3/8c4fb39e38ca6fbc1c5485992c2a79df.jpg') #b32c26;background-size:cover;background-blend-mode:multiply;border-radius:7px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                </div>
+                
+                
+                <!---- aesthetic img ------>
+                    <div class="card-0 p-3 m-1" style="background:url('https://images.unsplash.com/photo-1598078413201-5600c91c45fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80') fixed #444;background-size:cover;background-blend-mode:multiply;border-radius:7px;"> </div>
+                
+                <!--------->
+        <!--- chapter 1 --->
+                <div class="row no-gutters mt-2">
+                    <div class="col-auto">
+                        <div class="sticky-top">
+                            <div class="card p-2 mt-n1" style="background:#b32c26;">
+                                <!--- icon --->
+                                <i class="fa-solid fa-bookmark" style="color:#fff;"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col">
+                        <div class="card mx-1 p-2 mt-n1 small" style="border-radius:3px;background:#ddd;overflow:auto;">
+                            
+                            <h2 class="text-uppercase mt-1 font-weight-bold" style="font-size:12px;letter-spacing:2px;color:#b32c26">chapter i.</h2>
+                            
+                                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada ex a risus tristique malesuada. Cras ut volutpat felis. Fusce sodales tincidunt magna, vel aliquam eros congue sed. Sed congue sit amet odio dignissim consectetur. Etiam tristique lectus a tellus consequat, in tincidunt turpis fringilla. Morbi ac sapien et sapien facilisis rutrum eu vitae ligula. Integer maximus maximus rhoncus. Pellentesque vitae magna viverra, posuere nulla in, tempus nibh. Maecenas vitae enim pharetra, fermentum velit ac, commodo libero.</p>
+
+                                <p>Aliquam quam turpis, luctus sed lacus non, pharetra convallis justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo tellus interdum, rutrum lectus eget, mollis tellus. Vestibulum a est aliquet, suscipit lorem ac, placerat risus. Etiam laoreet congue est vel tristique. Suspendisse dignissim sem dui, a sollicitudin diam vehicula sed. Nulla ex nisl, ultrices vitae augue a, cursus vestibulum dui. Cras venenatis lacus nec luctus egestas. Cras in tincidunt est. Pellentesque augue justo, convallis eget mattis nec, tincidunt et dolor. Vivamus nisi libero, facilisis et lacus ut, ornare vulputate metus. Morbi mollis euismod libero ac semper.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+        
+        <!--- chapter 2 --->
+                <div class="row no-gutters mt-2">
+                    <div class="col-auto">
+                        <div class="sticky-top">
+                            <div class="card p-2 mt-n1" style="background:#b32c26;">
+                            <!--- icon --->
+                                <i class="fa-solid fa-bookmark" style="color:#fff;"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col">
+                        <div class="card mx-1 p-2 mt-n1 small" style="border-radius:3px;background:#ddd;overflow:auto;">
+                            
+                            <h2 class="text-uppercase mt-1 font-weight-bold" style="font-size:12px;letter-spacing:2px;color:#b32c26">chapter ii.</h2>
+                            
+                                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada ex a risus tristique malesuada. Cras ut volutpat felis. Fusce sodales tincidunt magna, vel aliquam eros congue sed. Sed congue sit amet odio dignissim consectetur. Etiam tristique lectus a tellus consequat, in tincidunt turpis fringilla. Morbi ac sapien et sapien facilisis rutrum eu vitae ligula. Integer maximus maximus rhoncus. Pellentesque vitae magna viverra, posuere nulla in, tempus nibh. Maecenas vitae enim pharetra, fermentum velit ac, commodo libero.</p>
+
+                                <p>Aliquam quam turpis, luctus sed lacus non, pharetra convallis justo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus commodo tellus interdum, rutrum lectus eget, mollis tellus. Vestibulum a est aliquet, suscipit lorem ac, placerat risus. Etiam laoreet congue est vel tristique. Suspendisse dignissim sem dui, a sollicitudin diam vehicula sed. Nulla ex nisl, ultrices vitae augue a, cursus vestibulum dui. Cras venenatis lacus nec luctus egestas. Cras in tincidunt est. Pellentesque augue justo, convallis eget mattis nec, tincidunt et dolor. Vivamus nisi libero, facilisis et lacus ut, ornare vulputate metus. Morbi mollis euismod libero ac semper.</p>
+
+                                <p>Phasellus consectetur viverra lorem eget gravida. Aenean tristique ultrices est, et elementum lorem maximus non. Praesent mattis vitae mauris nec sagittis. Suspendisse ultricies ligula vitae dolor congue tristique. Mauris leo diam, facilisis id cursus non, semper sed leo. Praesent fringilla id lacus fermentum lacinia. Integer sed magna nisl. Praesent ultrices tellus massa. Aliquam vitae lacinia ipsum, et lobortis nunc.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+        
+        <!--- extra // dark bg --->
+                <div class="row no-gutters mt-2">
+                    <div class="col-auto">
+                        <div class="sticky-top">
+                            <div class="card p-2 mt-n1" style="background:#b32c26;">
+                            <!--- icon --->
+                                <i class="fa-solid fa-bookmark" style="color:#fff;"></i>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col">
+                        <div class="card mx-1 p-2 mt-n1 small" style="border-radius:3px;background:#444;overflow:auto;color:#fff;">
+                            
+                            <h2 class="text-uppercase mt-1 font-weight-bold" style="font-size:12px;letter-spacing:2px;color:#fff">extra</h2>
+                            
+                                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed malesuada ex a risus tristique malesuada. Cras ut volutpat felis. Fusce sodales tincidunt magna, vel aliquam eros congue sed. Sed congue sit amet odio dignissim consectetur. Etiam tristique lectus a tellus consequat, in tincidunt turpis fringilla. Morbi ac sapien et sapien facilisis rutrum eu vitae ligula. Integer maximus maximus rhoncus. Pellentesque vitae magna viverra, posuere nulla in, tempus nibh. Maecenas vitae enim pharetra, fermentum velit ac, commodo libero.</p>
+                            
+                        </div>
+                    </div>
+                </div>
+                <!----->
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+<div class="mx-auto text-right p-1" style="max-width:800px;">
+    <a href="https://toyhou.se/18758103" class="text-muted" style="text-decoration:none;"><i class="fal fa-code"></i></a>
+</div>
